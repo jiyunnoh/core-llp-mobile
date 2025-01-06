@@ -1,0 +1,30 @@
+{
+  "dictionary": [
+    "appliances",
+    "difficulty",
+    "grooming",
+    "housework",
+    "laundering",
+    "recreational"
+  ],
+  "equipment": "None",
+  "groupHeaders": [
+    "Today, do you or would you have any difficulty at all with:"
+  ],
+  "instructions": "This questionnaire asks the patient whether they are having any difficulty at all with the activities listed because of the upper limb problem for which they are currently seeking attention. Please ask your patient to answer every question.",
+  "mcid_mdc": "MCID = Minimally Clinically Important Difference, MDC = Minimal Detectable Change\n\nAdults with musculoskeletal conditions of the upper extremity: MDC (90% CI) = 9 points.\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Upper Extremity Functional Index (UEFI) is a patient-reported outcome measure used to assess the functional impairment in individuals with upper limb musculoskeletal conditions or disorders. The UEFI consists of 20 questions on a 5-point rating scale assessing level of difficulty in performing activities of daily living using the upper extremities including household and work activities, hobbies, lifting a bag of groceries, washing the scalp, pushing up on the hands, driving, etc.",
+  "population": "The intended population includes the following conditions:  Musculoskeletal Conditions of the Upper Extremities, Stroke, Breast Cancer Surgery, and Chronic Pain.",
+  "references": "1. Stratford PW, Binkley, JM, Stratford DM. Development and initial validation of the upper extremity functional index. Physiotherapy Canada. 2001;53(4):259-267.\n2. Chesworth BM, Hamilton CB, et al. Reliability and validity of two versions of the upper extremity functional index. Physiotherapy Canada. 2014;66(3):243-253.",
+  "requireCompleteness": true,
+  "score_calculation": "Answers for the UEFI are based on a Likert scale (0-4) as follows: 0 = extreme difficulty or unable to perform activity, 1 = quite a bit of difficulty, 2 = moderate difficulty, 3 = a little bit of difficulty, 4 = no difficulty. \n\nUEFI Score = sum of 20 responses. All items must be answered for a UEFI score to be calculated.",
+  "score_interpretation": "Scoring scale 0-80 points where 0 represents the greatest disability and 80 represents the least disability.",
+  "summaryScore": [
+    "Total Score"
+  ],
+  "minYValue": "0",
+  "maxYValue": "80",
+  "yAxisInterval": "2",
+  "sigDiffPositive": "9",
+  "sigDiffNegative": "9"
+}

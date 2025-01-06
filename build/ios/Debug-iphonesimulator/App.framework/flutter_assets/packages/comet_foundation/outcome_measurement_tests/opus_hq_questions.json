@@ -1,0 +1,324 @@
+[
+  {
+    "id": "opus_hq_1",
+    "type": "radial",
+    "group": 0,
+    "question": "1. How much do you keep to yourself to avoid people's reactions to a missing body part or your need for a device?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_2",
+    "type": "radial",
+    "group": 0,
+    "question": "2. To what extent do you find that people's attitudes toward your physical condition are insulting?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_3",
+    "type": "radial",
+    "group": 0,
+    "question": "3. To what extent are you prevented from doing what you want to do because of social attitudes, the law, or environmental barriers?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_4",
+    "type": "radial",
+    "group": 0,
+    "question": "4. How much does pain interfere with your activities (including both work outside the home and household duties)?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_5",
+    "type": "radial",
+    "group": 0,
+    "question": "5. To what extent do you accomplish less than you would like because of your physical condition? ",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_6",
+    "type": "radial",
+    "group": 0,
+    "question": "6. To what extent do you accomplish less than you would like because of emotional problems?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_7",
+    "type": "radial",
+    "group": 0,
+    "question": "7. How much does your physical condition restrict your ability to run errands?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_8",
+    "type": "radial",
+    "group": 0,
+    "question": "8. How much does your physical condition restrict your ability to pursue a hobby?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_9",
+    "type": "radial",
+    "group": 0,
+    "question": "9. How much does your physical condition restrict your ability to do chores?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_10",
+    "type": "radial",
+    "group": 0,
+    "question": "10. How much does your physical condition restrict your ability to do paid work?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_11",
+    "type": "radial",
+    "group": 0,
+    "question": "11. To what extent have you cut down on work or other activities because of your physical condition?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_12",
+    "type": "radial",
+    "group": 0,
+    "question": "12. To what extent have you cut down on work or other activities because of emotional problems?",
+    "option": [
+      "Not at all",
+      "A little",
+      "A fair amount",
+      "A great deal",
+      "Excessively"
+    ],
+    "score_group": 0
+  },
+  {
+    "id": "opus_hq_13",
+    "type": "radial",
+    "group": 1,
+    "question": "13. felt full of life?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 1
+  },
+  {
+    "id": "opus_hq_14",
+    "type": "radial",
+    "group": 1,
+    "question": "14. felt calm and peaceful?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 1
+  },
+  {
+    "id": "opus_hq_15",
+    "type": "radial",
+    "group": 1,
+    "question": "15. had a lot of energy?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 1
+  },
+  {
+    "id": "opus_hq_16",
+    "type": "radial",
+    "group": 1,
+    "question": "16. been happy?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 1
+  },
+  {
+    "id": "opus_hq_17",
+    "type": "radial",
+    "group": 1,
+    "question": "17. been very nervous?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 2
+  },
+  {
+    "id": "opus_hq_18",
+    "type": "radial",
+    "group": 1,
+    "question": "18. felt so down in the dumps that nothing could cheer you up?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 2
+  },
+  {
+    "id": "opus_hq_19",
+    "type": "radial",
+    "group": 1,
+    "question": "19. felt downhearted and depressed?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 2
+  },
+  {
+    "id": "opus_hq_20",
+    "type": "radial",
+    "group": 1,
+    "question": "20. felt worn out?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 2
+  },
+  {
+    "id": "opus_hq_21",
+    "type": "radial",
+    "group": 1,
+    "question": "21. felt tired?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 2
+  },
+  {
+    "id": "opus_hq_22",
+    "type": "radial",
+    "group": 1,
+    "question": "22. been easily bothered or upset?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 2
+  },
+  {
+    "id": "opus_hq_23",
+    "type": "radial",
+    "group": 1,
+    "question": "23. had difficulty concentrating or paying attention?",
+    "option": [
+      "All the time",
+      "Most of the time",
+      "Some of the time",
+      "A little of the time",
+      "None of the time"
+    ],
+    "score_group": 2
+  }
+]

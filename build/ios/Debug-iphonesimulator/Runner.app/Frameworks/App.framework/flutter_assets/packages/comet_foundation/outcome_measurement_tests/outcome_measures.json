@@ -1,0 +1,524 @@
+[
+  {
+    "icon": "chart",
+    "id": "psq",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Patient Satisfaction Questionnaire",
+    "shortName": "PSQ",
+    "domainType": "satisfaction",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "psfs",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Patient-Specific Functional Scale",
+    "shortName": "PSFS",
+    "domainType": "goals",
+    "estimatedTime": "4",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "walker",
+    "id": "oms",
+    "isActive": false,
+    "isLLPRAccepted": false,
+    "name": "Orthotic Mobility Score",
+    "shortName": "OMS",
+    "domainType": "function",
+    "estimatedTime": "3",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "dash",
+    "isActive": false,
+    "isLLPRAccepted": true,
+    "name": "Disabilities of the Arm, Shoulder and Hand",
+    "shortName": "DASH",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "prosthetic",
+    "id": "pmq",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Prosthetic Mobility Questionnaire",
+    "shortName": "PMQ",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "prosthetic",
+    "id": "scs",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Socket Comfort Score",
+    "shortName": "SCS",
+    "domainType": "comfort",
+    "estimatedTime": "3",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "nprs",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Numeric Pain Rating Scale",
+    "shortName": "NPRS",
+    "domainType": "comfort",
+    "estimatedTime": "3",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "promispi",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Pain Interference",
+    "promoText": "Temporarily removed for technical updates.",
+    "shortName": "PROMIS-PI",
+    "domainType": "comfort",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "fh",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "name": "Fall History",
+    "shortName": "FH",
+    "domainType": "function",
+    "estimatedTime": "3",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "tug",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Timed Up & Go",
+    "shortName": "TUG",
+    "domainType": "function",
+    "estimatedTime": "3",
+    "isAssistantNeeded": "true",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "fsst",
+    "isActive": false,
+    "isLLPRAccepted": true,
+    "name": "Four Square Step Test",
+    "shortName": "FSST",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "true",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "tmwt",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "10 Meter Walk Test",
+    "shortName": "TMWT",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "true",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "walker",
+    "id": "lefs",
+    "isActive": false,
+    "isLLPRAccepted": true,
+    "name": "Lower Extremity Functional Scale",
+    "shortName": "LEFS",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "foot",
+    "id": "faam",
+    "isActive": false,
+    "isLLPRAccepted": true,
+    "name": "Foot and Ankle Ability Measure",
+    "shortName": "FAAM",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "uefi",
+    "isActive": false,
+    "isLLPRAccepted": true,
+    "name": "Upper Extremity Functional Index",
+    "shortName": "UEFI",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "opus_lefs",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "familyName": "Orthotics and Prosthetics Users' Survey",
+    "familyShortName": "OPUS",
+    "name": "Lower Extremity Functional Status",
+    "shortName": "LEFS",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "opus_hq",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "familyName": "Orthotics and Prosthetics Users' Survey",
+    "familyShortName": "OPUS",
+    "name": "Health Quality of Life",
+    "shortName": "HQOL",
+    "domainType": "hrqol",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "opus_swds",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "familyName": "Orthotics and Prosthetics Users' Survey",
+    "familyShortName": "OPUS",
+    "name": "Satisfaction with Device and Services",
+    "shortName": "SWDS",
+    "domainType": "satisfaction",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "promoText": "Coming soon!",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "peq_rl",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "familyName": "Prosthesis Evaluation Questionnaire",
+    "familyShortName": "PEQ",
+    "name": "Residual Limb Health",
+    "shortName": "RL",
+    "domainType": "comfort",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "peq_ut",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "familyName": "Prosthesis Evaluation Questionnaire",
+    "familyShortName": "PEQ",
+    "name": "Utility",
+    "shortName": "UT",
+    "domainType": "satisfaction",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "eq5d_5l",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "familyName": "EQ-5D",
+    "familyShortName": "EQ-5D",
+    "name": "5L",
+    "shortName": "5L",
+    "domainType": "hrqol",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "tapes_r",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "name": "Trinity Amputation and Prosthesis Experience Scales - Revised",
+    "shortName": "TAPES-R",
+    "domainType": "satisfaction",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "tminwt",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "name": "Two-Minute Walk Test",
+    "shortName": "2MWT",
+    "domainType": "function",
+    "estimatedTime": "2",
+    "isAssistantNeeded": "true",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "sminwt",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "name": "Six-Minute Walk Test",
+    "shortName": "6MWT",
+    "domainType": "function",
+    "estimatedTime": "2",
+    "isAssistantNeeded": "true",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "opus_uefs",
+    "isActive": false,
+    "isLLPRAccepted": false,
+    "familyName": "Orthotics and Prosthetics Users' Survey",
+    "familyShortName": "OPUS",
+    "name": "Upper Extremity Functional Status",
+    "shortName": "UEFS",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "false",
+    "promoText": "Coming soon!",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "amp",
+    "isActive": false,
+    "isLLPRAccepted": false,
+    "name": "Amputee Mobility Predictor",
+    "shortName": "AMP",
+    "domainType": "function",
+    "estimatedTime": "15",
+    "isAssistantNeeded": "true",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported",
+      "performance"
+    ]
+  },
+  {
+    "icon": "sensor",
+    "id": "progait",
+    "isActive": false,
+    "isLLPRAccepted": false,
+    "name": "ProGAIT",
+    "shortName": "ProGAIT",
+    "domainType": "function",
+    "estimatedTime": "5",
+    "isAssistantNeeded": "true",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "group": 0,
+    "id": "uefi_1",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "1. Any of your usual work, housework, or school activities",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_2",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "2. Your usual hobbies, recreational or sporting activities",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_3",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "3. Lifting a bag of groceries to waist level",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_4",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "4. Lifting a bag of groceries above your head",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_5",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "5. Grooming your hair",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_6",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "6. Pushing up on your hands (e.g., from bathtub or chair)",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_7",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "7. Preparing food (e.g., peeling, cutting)",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_8",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "8. Driving",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_9",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "9. Vacuuming, sweeping or raking",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_10",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "10. Dressing",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_11",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "11. Doing up buttons",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_12",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "12. Using tools or appliances",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_13",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "13. Opening doors ",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_14",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "14. Cleaning",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_15",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "15. Tying or lacing shoes",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_16",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "16. Sleeping",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_17",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "17. Laundering clothes (e.g., washing, ironing, folding)",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_18",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "18. Opening a jar",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_19",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "19. Throwing a ball",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "uefi_20",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "20. Carrying a small suitcase with your affected limb",
+    "type": "radial"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "group": 0,
+    "id": "promispi_1",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "1. ¿En qué medida el dolor interfirió en sus actividades diarias?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_2",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "2. ¿En qué medida el dolor interfirió en el trabajo en el hogar?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_3",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "3. ¿En qué medida el dolor interfirió en su capacidad para participar en actividades sociales?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_4",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "4. ¿En qué medida el dolor interfirió en sus tareas domésticas?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_5",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "5. ¿En qué medida el dolor interfirió en las actividades que hace habitualmente para divertirse?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_6",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "6. ¿En qué medida el dolor interfirió en su capacidad para disfrutar de actividades sociales?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_7",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "7. ¿En qué medida el dolor interfirió en su capacidad para disfrutar de la vida?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_8",
+    "option": [
+      "Nada",
+      "Un poco",
+      "Algo",
+      "Mucho",
+      "Muchísimo"
+    ],
+    "question": "8. ¿En qué medida el dolor interfirió en su vida familiar?",
+    "score_group": 0,
+    "type": "radial"
+  }
+]

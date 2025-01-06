@@ -1,0 +1,57 @@
+{
+  "dictionary": [
+    "ability",
+    "household",
+    "interfere"
+  ],
+  "equipment": "Ninguno(a)",
+  "groupHeaders": [
+    "En los últimos 7 días…"
+  ],
+  "instructions": "Por favor, indique a su paciente que responda a cada pregunta al seleccionar la respuesta más adecuada.",
+  "mcid_mdc": "MCID = Diferencia mínimamente importante desde el punto de vista clínico, MDC = Cambio mínimo detectable\n+ = mejora      - = deterioro\n\nArtritis reumatoide: MCID = +1.1, -1.8.\nAccidente cerebrovascular: MCID = +2.0, -3.1.\nDolor de espalda crónico o dolor de osteoartritis de cadera o rodilla: MCID = +2.4, -2.4.\n\nEstos son valores publicados para poblaciones específicas y brindan orientación si el/la paciente no tiene la condición mencionada.",
+  "overview": "Esta es una medida autoinformada de interferencia del dolor (PI) centrada en el dominio de 8 elementos del banco de elementos PROMIS (Sistema de información de medida de resultados informados por el paciente). Este cuestionario pregunta sobre el dolor de su paciente y el impacto que tiene en diferentes actividades.",
+  "population": "La población prevista incluye las siguientes afecciones: Dolor crónico, dolor articular y fracturas, afecciones musculoesqueléticas y artritis.",
+  "references": "1. Amtmann D, Cook KF, Jensen MP, et al. Development of a PROMIS item bank to measure pain interference. Pain. 2010;150(1):173-182. \n2. Deyo RA, Ramsey K, Buckley DI, et al. Performance of a patient reported outcomes measurement information system (PROMIS) short form in older adults with chronic musculoskeletal pain. Pain Med. 2016;17(2):314-324.\n3. Askew RL, Cook KF, Revicki DA, et al. Evidence from diverse clinical populations supported clinical validity of PROMIS pain interference and pain behavior. J Clin Epidemiol. 2016;73:103-111. \n4. Cook KF, Jensen SE, Schalet BD, et al. PROMIS measures of pain, fatigue, negative affect, physical function, and social function demonstrated clinical validity across a range of chronic conditions. J Clin Epidemiol. 2016;73:89-102.\n5. Morgan SJ, Friedly JL, Amtmann D, et al. Cross-sectional assessment of factors related to pain intensity and pain interference in lower limb prosthesis users. Arch Phys Med Rehabil. 2017;98(1):105-113. \n6. Broderick JE, Schneider S, Junghaenel DU, et al. Validity and reliability of patient-reported outcomes measurement information system instruments in osteoarthritis. Arthritis Care Res (Hoboken). 2013;65(10):1625-1633. \n7. Terwee, CB, Peipert JD, Chapman R, et al. Minimal important change (MIC): a conceptual clarification and systematic review of MIC estimates of PROMIS measures. Qual Life Res. 2021;30(10):2729-2754.",
+  "requireCompleteness": true,
+  "score_calculation": "Las respuestas se califican numéricamente para cada pregunta. Los puntajes brutos luego se suman y se convierten en un Puntaje T. El Puntaje T estandariza el puntaje con una media de 50 y una desviación estándar de 10. ",
+  "score_interpretation": "Puntajes más altos = más interferencia de dolor (indeseable). \n\nPuntajes más bajos = menor interferencia de dolor (deseable). ",
+  "score_lookup_table": {
+    "8": 40.7,
+    "9": 47.9,
+    "10": 49.9,
+    "11": 51.2,
+    "12": 52.3,
+    "13": 53.2,
+    "14": 54.1,
+    "15": 55,
+    "16": 55.8,
+    "17": 56.6,
+    "18": 57.4,
+    "19": 58.1,
+    "20": 58.8,
+    "21": 59.5,
+    "22": 60.2,
+    "23": 60.8,
+    "24": 61.5,
+    "25": 62.1,
+    "26": 62.8,
+    "27": 63.5,
+    "28": 64.1,
+    "29": 64.8,
+    "30": 65.5,
+    "31": 66.2,
+    "32": 66.9,
+    "33": 67.7,
+    "34": 68.4,
+    "35": 69.2,
+    "36": 70.1,
+    "37": 71,
+    "38": 72.1,
+    "39": 73.5,
+    "40": 77
+  },
+  "summaryScore": [
+    "Puntaje total"
+  ]
+}

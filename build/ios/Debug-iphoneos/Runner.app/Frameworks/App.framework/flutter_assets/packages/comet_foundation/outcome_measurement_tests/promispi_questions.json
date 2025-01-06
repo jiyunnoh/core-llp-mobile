@@ -1,0 +1,114 @@
+[
+  {
+    "group": 0,
+    "id": "promispi_1",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "1. How much did pain interfere with your day to day activities?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_2",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "2. How much did pain interfere with work around the home?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_3",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "3. How much did pain interfere with your ability to participate in social activities?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_4",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "4. How much did pain interfere with your household chores?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_5",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "5. How much did pain interfere with the things you usually do for fun?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_6",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "6. How much did pain interfere with your enjoyment of social activities?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_7",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "7. How much did pain interfere with your enjoyment of life?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "promispi_8",
+    "option": [
+      "Not at all",
+      "A little bit",
+      "Somewhat",
+      "Quite a bit",
+      "Very much"
+    ],
+    "question": "8. How much did pain interfere with your family life?",
+    "score_group": 0,
+    "type": "radial"
+  }
+]

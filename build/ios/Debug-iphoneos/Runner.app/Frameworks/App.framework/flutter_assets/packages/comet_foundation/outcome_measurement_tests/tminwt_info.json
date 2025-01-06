@@ -1,0 +1,21 @@
+{
+  "equipment": "Measuring wheel to measure distance (recommended)\nChair\nLevel ground of at least 10m\nMarkings (such as cones) to indicate where to turn around",
+  "instructions": "Please instruct your patient to use walk as far as possible in the selected timeframe. It is acceptable for the patient to stop or change pace if needed. The patient may use an assistive device if needed.",
+  "mcid_mdc": "Minimal Detectable Change (MDC)\nLower Limb Amputation\n\nMDC = 34.3 meters or 112.5 feet.\nMultiple Sclerosis: MDC = 19.2 meters or 63 feet.\nOlder Adults: MDC = 12.2 meters or 40.0 feet.\nNeurologic: MDC = 16.4 meters or 53.8 feet.\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Two-Minute Walk Test (2MWT) is used to assess the walking ability in a variety of populations.",
+  "population": "The intended population includes the following conditions: Stroke, Spinal Injuries, Pulmonary Diseases, Older Adults and Geriatric Care, Limb Loss and Amputation, Brain Injury, Multiple Sclerosis, Non-Specific Patient Population.",
+  "references": "1. Connelly DM, Thomas BK, Cliffe SJ, Perry WM, Smith RE. Clinical utility of the 2-minute walk test for older adults living in long-term care. Physiother Can. 2009;61(2):78-87. doi:10.3138/physio.61.2.78\n2. Gijbels, D., Alders, G., Van Hoof, E., Charlier, C., Roelants, M., Broekmans, T., Op ’t Eijnde, B., & Feys, P. (2010). Predicting habitual walking performance in multiple sclerosis: Relevance of capacity and self-report measures. Mult. Scler. J, 16(5), 618–626. https://doi.org/10.1177/1352458510361357\n3. Reid, L., Thomson, P., Besemann, M., & Dudek, N. (n.d.). Going places: Does the two-minute walk test predict the six-minute walk test in lower extremity amputees? J Rehab Med. doi:10.2340/16501977-1916\n4. Resnik L, Borgia M. Reliability of outcome measures for people with lower-limb amputations: distinguishing true change from statistical error. Phys Ther. 2011;91(4):555-565. doi:10.2522/ptj.20100287\n5. Rossier P, Wade DT. Validity and reliability comparison of 4 mobility measures in patients presenting with neurologic impairment. Arch Phys Med Rehabil. 2001;82(1):9-13. doi:10.1053/apmr.2001.9396",
+  "requireCompleteness": false,
+  "score_calculation": "Scoring is completed by calculating the total distance covered during the  2 minute test.",
+  "score_interpretation": "An increased walking distance indicates an improvement in mobility (e.g., post-intervention compared to pre-intervention).",
+  "summaryScore": [
+    "Distance Traveled (m)"
+  ],
+  "minYValue": "0",
+  "maxYValue": "150",
+  "yAxisInterval": "25",
+  "yAxisLabel": "Distance Traveled",
+  "yAxisUnit": "m",
+  "sigDiffPositive": "34.3",
+  "sigDiffNegative": "34.3"
+}

@@ -1,0 +1,24 @@
+{
+  "equipment": "None",
+  "groupHeaders": [
+    "Under each heading, please select the ONE response that best describes your health TODAY.",
+    "We would like to know how good or bad your health is TODAY. "
+  ],
+  "instructions": "Instruct the patient to respond to each category with the response that best describes their health today.",
+  "mcid_mdc": "MCID = Minimally Clinically Important Difference\n\nKnee/Hip Osteoarthritis: MCID = 0.32.\n\nStroke: MCID = 0.10. \n\nKnee Arthroplasty: MCID = 0.09.\n\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The EQ-5D-5L is a self-report outcome measure of five separate dimensions. Each dimension has five possible levels of response. The outcome measure is used to gain a perspective of overall health.",
+  "population": "The intended population includes the following conditions: \nNon-specific patient population, brain injury, and stroke.",
+  "references": "1.Bilbao A, García-Pérez L, Arenaza JC, et al. Psychometric properties of the EQ-5D-5L in patients with hip or knee osteoarthritis: reliability, validity and responsiveness. Qual Life Res. 2018;27(11):2897-2908. doi:10.1007/s11136-018-1929\n2. Herdman M, Gudex C, Lloyd A, et al. Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L). Qual Life Res. 2011;20(10):1727-1736. doi:10.1007/s11136-011-9903\n3. Feng YS, Kohlmann T, Janssen MF, Buchholz I. Psychometric properties of the EQ-5D-5L: a systematic review of the literature. Qual Life Res. 2021;30(3):647-673. doi:10.1007/s11136-020-02688-y\n4. Keetharuth AD, Hussain H, Rowen D, Wailoo A. Assessing the psychometric performance of EQ-5D-5L in dementia: a systematic review. Health Qual Life Outcomes. 2022;20(1):139. Published 2022 Sep 28. doi:10.1186/s12955-022-02036-3\n5. Chen P, Lin KC, Liing RJ, Wu CY, Chen CL, Chang KC. Validity, responsiveness, and minimal clinically important difference of EQ-5D-5L in stroke patients undergoing rehabilitation. Qual Life Res. 2016;25(6):1585-1596. doi:10.1007/s11136-015-1196\n6. Yapp LZ, Scott CEH, Howie CR, MacDonald DJ, Simpson AHRW, Clement ND. Meaningful values of the EQ-5D-3L in patients undergoing primary knee arthroplasty. Bone Joint Res. 2022;11(9):619-628. doi:10.1302/2046-3758.119.BJR-2022-0054.R1",
+  "requireCompleteness": false,
+  "score_calculation": "In each category, the first response option is scored as a '1', the second response option is scored as a ‘2’, the third response option is scored as a ‘3’, the fourth response option is scored as a ‘4’, and the fifth response option is scored as a ‘5’.\n1 = indicates no problem\n2 = indicates slight problems\n3 = indicates moderate problems\n4 = indicates severe problems\n5 = indicates patient is unable or has extreme problems\nThe responses are reported as a 5-digit sequence.",
+  "score_interpretation": "This outcome measure results in a sequence of numbers which correlate to a specific domain. \n\nThe first number of the sequence relates to Mobility, the second number of the sequence relates to Self-Care, the third number of the sequence relates to Usual Activities, the fourth number of the sequence relates to Pain / Discomfort, and the fifth number relates to Anxiety / Depression.\n\nFor example, the following sequence 12345 indicates no problems with mobility, slight problems with washing or dressing, moderate problems with doing usual activities, and unable to or extreme problems with anxiety or depression. \n\nThe visual analog scale is interpreted as follows: \n0 = the worst health you can imagine\n100 = the best health you can imagine",
+  "summaryScore": [
+    "Health State",
+    "Your Health Today"
+  ],
+  "minYValue": "0",
+  "maxYValue": "100",
+  "yAxisInterval": "20",
+  "shouldReverse": "false",
+  "significantFigures": "0"
+}

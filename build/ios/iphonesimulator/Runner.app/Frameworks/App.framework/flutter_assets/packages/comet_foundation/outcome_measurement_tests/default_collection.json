@@ -1,0 +1,131 @@
+{
+  "compass": {
+    "id": "compass",
+    "title": "COMPASS",
+    "description": "description",
+    "conditions": [
+      "prosthetic",
+      "lower",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "tug",
+      "tminwt",
+      "peq_ut",
+      "peq_rl",
+      "tapes_r",
+      "eq5d_5l",
+      "psfs",
+      "amp"
+    ]
+  },
+  "beta": {
+    "id": "beta",
+    "title": "Beta Test",
+    "description": "description",
+    "conditions": [
+      "prosthetic",
+      "lower",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "pmq",
+      "opus_lefs",
+      "psq",
+      "opus_swds",
+      "nprs",
+      "promispi",
+      "scs",
+      "opus_hq"
+    ]
+  },
+  "lepros": {
+    "id": "lepros",
+    "title": "LE Prosthetics",
+    "description": "description",
+    "conditions": [
+      "prosthetic",
+      "lower",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "tug",
+      "fh",
+      "pmq",
+      "psq",
+      "scs",
+      "promispi",
+      "eq5d_5l"
+    ]
+  },
+  "uepros": {
+    "id": "uepros",
+    "title": "UE Prosthetics",
+    "conditions": [
+      "prosthetic",
+      "upper",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "dash",
+      "psq",
+      "scs",
+      "promispi",
+      "eq5d_5l"
+    ]
+  },
+  "leortho": {
+    "id": "leortho",
+    "title": "LE Orthotics",
+    "conditions": [
+      "orthotic",
+      "lower",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "oms",
+      "lefs",
+      "psq",
+      "nprs",
+      "promispi",
+      "eq5d_5l"
+    ]
+  },
+  "ueortho": {
+    "id": "ueortho",
+    "title": "UE Orthotics",
+    "conditions": [
+      "orthotic",
+      "upper",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "uefi",
+      "psq",
+      "nprs",
+      "promispi",
+      "eq5d_5l"
+    ]
+  },
+  "generalRehab": {
+    "id": "generalRehab",
+    "title": "General Rehab",
+    "conditions": [
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "tug",
+      "pmq",
+      "psq",
+      "nprs",
+      "promispi",
+      "eq5d_5l"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "group": 0,
+    "id": "fsst_1",
+    "question": "Trial 1 elapsed time?",
+    "type": "time"
+  },
+  {
+    "group": 0,
+    "id": "fsst_2",
+    "question": "Trial 2 elapsed time?",
+    "type": "time"
+  },
+  {
+    "group": 0,
+    "id": "fsst_3",
+    "question": "Did any trials need to be repeated?",
+    "type": "text"
+  },
+  {
+    "group": 0,
+    "id": "fsst_4",
+    "question": "Were any assistive devices used when completing this test?",
+    "type": "text"
+  },
+  {
+    "group": 0,
+    "id": "fsst_5",
+    "question": "Did the patient remain face forward during the entire sequence?",
+    "type": "text"
+  }
+]

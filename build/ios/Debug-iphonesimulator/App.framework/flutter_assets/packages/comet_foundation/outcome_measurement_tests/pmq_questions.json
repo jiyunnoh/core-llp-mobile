@@ -1,0 +1,170 @@
+[
+  {
+    "group": 0,
+    "id": "pmq_1",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "1. To walk indoors",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_2",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "2. To walk in confined spaces",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_3",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "3. To walk upstairs",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_4",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "4. To walk downstairs",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_5",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "5. To walk up a steep hill",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_6",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "6. To walk down a steep hill",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_7",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "7. To walk on sidewalks and streets",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_8",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "8. To get in and out of a car",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_9",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "9. To sit down and get up from a common chair without armrests",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_10",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "10. To sit down and get up from a low, soft chair (e.g. a deep sofa)",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_11",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "11. To run a block",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "pmq_12",
+    "option": [
+      "Unable",
+      "High difficulty",
+      "Moderate difficulty",
+      "Little difficulty",
+      "No problems"
+    ],
+    "question": "12. To walk up to two hours",
+    "score_group": 0,
+    "type": "radial"
+  }
+]

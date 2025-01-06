@@ -1,0 +1,65 @@
+[
+ {
+   "id": "peq_ut_1",
+   "type": "vas",
+   "group": 0,
+   "question": "rate the fit of your prosthesis.",
+   "score_group": 0,
+   "min": "Terrible",
+   "max": "Excellent"
+ },
+ {
+   "id": "peq_ut_2",
+   "type": "vas",
+   "group": 0,
+   "question": "rate your comfort while standing when using your prosthesis.",
+   "score_group": 0,
+   "min": "Terrible",
+   "max": "Excellent"
+ },
+  {
+    "id": "peq_ut_3",
+    "type": "vas",
+    "group": 0,
+    "question": "rate your comfort while sitting when using your prosthesis.",
+    "score_group": 0,
+    "min": "Terrible",
+    "max": "Excellent"
+  },
+  {
+    "id": "peq_ut_4",
+    "type": "vas",
+    "group": 0,
+    "question": "rate how often you felt off balance while using your prosthesis.",
+    "score_group": 0,
+    "min": "All the Time",
+    "max": "Not At All"
+  },
+  {
+    "id": "peq_ut_5",
+    "type": "vas",
+    "group": 0,
+    "question": "rate how much energy it took to use your prosthesis for as long as you needed it.",
+    "score_group": 0,
+    "min": "Completely Exhausting",
+    "max": "None at All"
+  },
+  {
+    "id": "peq_ut_6",
+    "type": "vas",
+    "group": 0,
+    "question": "rate the feel (such as the temperature and texture) of the prosthesis (sock, liner, socket) on your residual limb (stump).",
+    "score_group": 0,
+    "min": "Worst Possible",
+    "max": "Best Possible"
+  },
+  {
+    "id": "peq_ut_7",
+    "type": "vas",
+    "group": 0,
+    "question": "rate the ease of putting on (donning) your prosthesis.",
+    "score_group": 0,
+    "min": "Terrible",
+    "max": "Excellent"
+  }
+]

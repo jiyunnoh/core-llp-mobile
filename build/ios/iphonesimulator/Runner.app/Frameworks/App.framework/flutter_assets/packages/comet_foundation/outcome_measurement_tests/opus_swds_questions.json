@@ -1,0 +1,318 @@
+[
+	{
+		"group": 0,
+		"id": "opus_swds_1",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "1. My prosthesis / orthosis fits well",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_2",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "2. The weight of my prosthesis / orthosis is manageable",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_3",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "3. My prosthesis / orthosis is comfortable throughout the day",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_4",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "4. It is easy to put on my prosthesis / orthosis",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_5",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "5. My prosthesis / orthosis looks good",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_6",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "6. My prosthesis / orthosis is durable",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_7",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "7. My clothes are free of wear and tear from my prosthesis / orthosis",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_8",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "8. My skin is free of abrasions and irritations",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_9",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "9. My prosthesis / orthosis is pain free to wear",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_10",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "10. I can afford the out-of-pocket expenses to purchase and maintain my prosthesis / orthosis",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_11",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "11. I can afford to repair or replace my prosthesis / orthosis as soon as needed",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_12",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "12. I received an appointment with a prosthetist / orthotist within a reasonable amount of time",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_13",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "13. I was shown the proper level of courtesy and respect by the staff",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_14",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "14. I waited a reasonable amount of time to be seen",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_15",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "15. Clinic staff fully informed me about equipment choices",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_16",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "16. The prosthetist / orthotist gave me the opportunity to express my concerns regarding my equipment",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_17",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "17. The prosthetist / orthotist was responsive to my concerns and questions",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_18",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "18. I am satisfied with the training I received in the use and maintenance of my prosthesis / orthosis",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_19",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "19. The prosthetist / orthotist discussed problems I might encounter with my equipment",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_20",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "20. The staff coordinated their services with my therapists and doctors",
+		"score_group": 1,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_swds_21",
+		"option": [
+			"Strongly Agree",
+			"Agree",
+			"Neither Agree nor Disagree",
+			"Disagree",
+			"Strongly Disagree",
+			"Don't Know / Not Applicable"
+		],
+		"question": "21. I was a partner in decision-making with clinic staff regarding my care and equipment",
+		"score_group": 1,
+		"type": "radial"
+	}
+
+]

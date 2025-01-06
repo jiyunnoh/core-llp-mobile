@@ -1,0 +1,33 @@
+{
+  "dictionary": [
+    "caregiver",
+    "device",
+    "inspect",
+    "instructions",
+    "maintenance",
+    "obligations",
+    "practice",
+    "precautions",
+    "provider",
+    "receptionist",
+    "satisfaction",
+    "scheduled",
+    "services"
+  ],
+  "equipment": "None",
+  "instructions": "Please provide this satisfaction survey to patients at every appointment or at the delivery appointment only.",
+  "mcid_mdc": "None",
+  "overview": "This is a Patient Satisfaction Questionnaire (PSQ) provided by the American Board for Certification in Orthotics, Prosthetics & Pedorthics, Inc.",
+  "population": "The intended population includes the following: Orthosis Users and Prosthesis Users.",
+  "references": "1. © American Board for Certification in Orthotics, Prosthetics & Pedorthics, Inc. 2014.",
+  "requireCompleteness": false,
+  "score_calculation": "Scoring is calculated as a percentage of best possible score.\n\nExample score calculation:\nHow satisfied are you with your device(s)?\nSatisfied = 100%, Mostly satisfied = 75%, Neutral = 50%, Mostly dissatisfied = 25%, Dissatisfied = 0%\n\nWere the instructions regarding the use and care of your device(s) useful?\nVery useful = 100%, Somewhat useful = 50%, Not useful = 0%, I didn't get instructions = N/A\n\nIf a patient responded \"Mostly satisfied\" and \"Somewhat useful\", the resulting total score is 62.5% (average of 75% and 50%).\nIf a patient responded \"Mostly satisfied\" and \"I didn't get instructions\", the resulting total score is 75%.",
+  "score_interpretation": "0% = Lowest possible score (undesirable)\n100% = Highest possible score (desirable)",
+  "summaryScore": [
+    "Total Score"
+  ],
+  "minYValue": "0",
+  "maxYValue": "100",
+  "yAxisInterval": "20",
+  "significantFigures": "1"
+}

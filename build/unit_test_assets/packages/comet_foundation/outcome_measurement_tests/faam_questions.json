@@ -1,0 +1,450 @@
+[
+  {
+    "group": 0,
+    "id": "faam_1",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "1. Standing",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_2",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "2. Walking on even ground",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_3",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "3. Walking on even ground without shoes",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_4",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "4. Walking up hills",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_5",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "5. Walking down hills",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_6",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "6. Going up stairs",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_7",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "7. Going down stairs",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_8",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "8. Walking on uneven ground",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_9",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "9. Stepping up and down curbs",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_10",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "10. Squatting",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_11",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "11. Coming up on your toes",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_12",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "12. Walking initially",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_13",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "13. Walking 5 minutes or less",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_14",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "14. Walking approximately 10 minutes",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_15",
+    "option": [
+      "No Difficulty",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "15. Walking 15 minutes or greater",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_16",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "16. Home responsibilities",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_17",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "17. Activities of daily living",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_18",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "18. Personal care",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_19",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "19. Light to moderate work (standing, walking)",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_20",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "20. Heavy work (push/pulling, climbing, carrying)",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_21",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "21. Recreational activities",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_22",
+    "max": "100",
+    "min": "0",
+    "question": "How would you rate your current level of function during your usual activities of daily living from 0 to 100 with 100 being your level of function prior to your foot or ankle problem and 0 being the inability to perform any of your usual daily activities?",
+    "type": "vas"
+  },
+  {
+    "group": 1,
+    "id": "faam_23",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "1. Running",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_24",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "2. Jumping",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_25",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "3. Landing",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_26",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "4. Starting and stopping quickly",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_27",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "5. Cutting/lateral movements",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_28",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "6. Ability to perform activity with your normal technique",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_29",
+    "option": [
+      "No Difficulty At All",
+      "Slight Difficulty",
+      "Moderate Difficulty",
+      "Extreme Difficulty",
+      "Unable To Do",
+      "N/A"
+    ],
+    "question": "7. Ability to participate in your desired sport as long as you like",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_30",
+    "max": "100",
+    "min": "0",
+    "question": "How would you rate your current level of function during your sports related activities from 0 to 100 with 100 being your level of function prior to your foot or ankle problem and 0 being the inability to perform any of your sports related activities?",
+    "type": "vas"
+  },
+  {
+    "group": 1,
+    "id": "faam_31",
+    "option": [
+      "Normal",
+      "Nearly Normal",
+      "Abnormal",
+      "Severely Abnormal"
+    ],
+    "question": "Overall, how would you rate your current level of function?",
+    "type": "radial"
+  }
+]

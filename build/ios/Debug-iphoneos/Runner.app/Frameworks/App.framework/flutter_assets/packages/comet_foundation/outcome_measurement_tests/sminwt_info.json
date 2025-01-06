@@ -1,0 +1,21 @@
+{
+  "equipment": "Measuring wheel to measure distance (recommended)\nChair\nLevel ground of at least 10m\nMarkings (such as cones) to indicate where to turn around",
+  "instructions": "Please instruct your patient to use walk as far as possible in the selected timeframe. It is acceptable for the patient to stop or change pace if needed. The patient may use an assistive device if needed.",
+  "mcid_mdc": "Minimally Clinically Important Difference (MCID)\nMinimal Detectable Change (MDC)\nOsteoarthritis: MDC = 61.3 meters or 201.3 feet. \nParkinson’s Disease: MDC = 82.0 meters or 269.0 feet.\nSpinal Cord Injury: MDC = 45.8 meters or 150.0 feet.\nGeriatric: MDC = 85.2 meters or 191.0 feet; MCID = 50.0 meters or 164.0 feet. \nStroke: MDC = 34.4 meters or 112.8 feet; MCID = 34.4 meters or 112.9 feet.\nChronic Obstructive Pulmonary Disease: MDC = 24.0 meters or 177.0 feet; MCID = 54.0 meters or 177.2 feet. \n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Six-Minute Walk Test (6MWT) is a single task outcome measure, widely used in a variety of populations designed to measure walking ability, aerobic capacity, and endurance.",
+  "population": "The intended population includes the following conditions: Stroke, Spinal Injuries, Pulmonary Diseases, Older Adults and Geriatric Care, Limb Loss and Amputation, Brain Injury, Multiple Sclerosis, Non-Specific Patient Population.",
+  "references": "1. Eng JJ, Dawson AS, Chu KS. Submaximal exercise in persons with stroke: test-retest reliability and concurrent validity with maximal oxygen consumption. Arch Phys Med Rehabil. 2004;85(1):113-118. doi:10.1016/s0003-9993(03)00436-2\n2. Flansbjer UB, Holmbäck AM, Downham D, Patten C, Lexell J. Reliability of gait performance tests in men and women with hemiparesis after stroke. J Rehabil Med. 2005;37(2):75-82. doi:10.1080/16501970410017215\n3. Kennedy DM, Stratford PW, Wessel J, Gollish JD, Penney D. Assessing stability and change of four performance measures: a longitudinal study evaluating outcome following total hip and knee arthroplasty. BMC Musculoskelet Disord. 2005;6:3. Published 2005 Jan 28. doi:10.1186/1471-2474-6-3\n4. Lam T, Noonan VK, Eng JJ; SCIRE Research Team. A systematic review of functional ambulation outcome measures in spinal cord injury. Spinal Cord. 2008;46(4):246-254. doi:10.1038/sj.sc.3102134\n5. Perera S, Mody SH, Woodman RC, Studenski SA. Meaningful change and responsiveness in common physical performance measures in older adults. J Am Geriatr Soc. 2006;54(5):743-749. doi:10.1111/j.1532-5415.2006.00701\n6. Rasekaba T, Lee AL, Naughton MT, Williams TJ, Holland AE. The six-minute walk test: a useful metric for the cardiopulmonary patient. Intern Med J. 2009;39(8):495-501. doi:10.1111/j.1445-5994.2008.01880\n7. Ries JD, Echternach JL, Nof L, Gagnon Blodgett M. Test-retest reliability and minimal detectable change scores for the timed \"up & go\" test, the six-minute walk test, and gait speed in people with Alzheimer disease. Phys Ther. 2009;89(6):569-579. doi:10.2522/ptj.20080258\n8. Reid, L., Thomson, P., Besemann, M., & Dudek, N. (n.d.). Going places: Does the two-minute walk test predict the six-minute walk test in lower extremity amputees? J Rehab Med. doi:10.2340/16501977-1916 \n9. Steffen T, Seney M. Test-retest reliability and minimal detectable change on balance and ambulation tests, the 36-item short-form health survey, and the unified Parkinson disease rating scale in people with parkinsonism [published correction appears in Phys Ther. 2010 Mar;90(3):462]. Phys Ther. 2008;88(6):733-746. doi:10.2522/ptj.20070214",
+  "requireCompleteness": false,
+  "score_calculation": "Scoring is completed by calculating the total distance covered during the 6 minute test.",
+  "score_interpretation": "An increased walking distance indicates an improvement in mobility (e.g., post-intervention compared to pre-intervention).",
+  "summaryScore": [
+    "Distance Traveled (m)"
+  ],
+  "minYValue": "0",
+  "maxYValue": "400",
+  "yAxisInterval": "50",
+  "yAxisLabel": "Distance Traveled",
+  "yAxisUnit": "m",
+  "sigDiffPositive": "45.8",
+  "sigDiffNegative": "45.8"
+}

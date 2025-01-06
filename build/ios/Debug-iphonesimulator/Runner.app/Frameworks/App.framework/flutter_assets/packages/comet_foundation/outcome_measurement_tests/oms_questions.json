@@ -1,0 +1,21 @@
+[
+  {
+    "group": 0,
+    "id": "oms_1",
+    "interval": 1,
+    "max": 10,
+    "min": 1,
+    "question": "1. How would you rate your mobility and function when using your orthotic device at the start of today's visit?",
+    "type": "discrete_scale"
+  },
+  {
+    "group": 0,
+    "id": "oms_2",
+    "interval": 1,
+    "max": 10,
+    "min": 1,
+    "question": "2. How would you rate your mobility and function when using your orthotic device following any adjustments made at today's visit?",
+    "tapQuestion": "There were no adjustments made today.",
+    "type": "discrete_scale_checkbox"
+  }
+]

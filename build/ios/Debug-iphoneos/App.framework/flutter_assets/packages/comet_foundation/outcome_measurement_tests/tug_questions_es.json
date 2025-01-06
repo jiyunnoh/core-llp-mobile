@@ -1,0 +1,14 @@
+[
+  {
+    "group": 0,
+    "id": "tug_1",
+    "question": "¿Tiempo transcurrido?",
+    "type": "time"
+  },
+  {
+    "group": 0,
+    "id": "tug_2",
+    "question": "¿Se utilizaron dispositivos de asistencia al completar esta prueba?",
+    "type": "text"
+  }
+]

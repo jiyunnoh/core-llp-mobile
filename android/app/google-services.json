@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416506807605",
+    "project_id": "core-llc",
+    "storage_bucket": "core-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416506807605:android:7de79a21f112b93811f87c",
+        "android_client_info": {
+          "package_name": "com.orthocareinnovations.leadcompass.lead_compass_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYeoexPiwEY95qmUoIFt4lUtAapB6ajA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

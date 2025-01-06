@@ -1,0 +1,23 @@
+{
+  "dictionary": [
+    "activity",
+    "difficulty",
+    "injury",
+    "scale"
+  ],
+  "equipment": "Ninguno(a)",
+  "groupHeaders": [
+    "Por favor, identifique hasta tres actividades importantes que no puede realizar o con las que tiene dificultades como resultado de su lesión o problema y califique en una escala de 0 (incapaz de realizar) a 10 (capaz de realizar una actividad al mismo nivel que antes de la lesión o problema)."
+  ],
+  "instructions": "Se le pide al paciente que identifique hasta tres actividades que no puede realizar o con las que está teniendo dificultades como resultado de su condición. Luego, el/la paciente califica cada actividad en función de la capacidad para realizarla. El promedio de los tres puntajes de actividad se utiliza para representar el resultado funcional general del/de la paciente. Por favor, pídale a su paciente que identifique tres actividades y califique cada actividad en una escala de 0 a 10, donde 0 representa la incapacidad para realizar la actividad y 10 representa la capacidad para realizar la actividad al mismo nivel que antes de la lesión o problema.",
+  "mcid_mdc": "MCID = Diferencia mínimamente importante desde el punto de vista clínico, MDC = Cambio mínimo detectable\n\nPuntaje de actividad única: MDC (CI del 90%) = 3 puntos. \nPuntaje medio: MDC (CI del 90%) = 2 puntos. \n\nDolor crónico: MDC = 2 puntos. \nDolor lumbar: MDC = 1.4 puntos. \nMusculoesquelético de la extremidad superior: MCID = 1.2 puntos. \nEstenosis espinal: MCID = 1.34 puntos, MDC = 2.4 puntos.\nOsteoartritis de la mano: MCID = 2.2 puntos, MDC (CI del 90%) = 1.3 puntos, MDC (CI del 95%) = 1.56 puntos. \nFractura humeral proximal: MCID = 2 o más puntos.\nDisfunción de rodilla: MDC = 1.5 puntos. \nDisfunción del cuello: MDC = 2 puntos. \nAmputación del miembro inferior: MDC (Elemento 1) = 3.3 puntos, MDC (Elemento 2) = 4.2 puntos, MDC (Elemento 3) = 3.1 puntos.\nAdultos mayores que viven en la comunidad: MDC = 2.8 puntos. \n\nEstos son valores publicados para poblaciones específicas y brindan orientación si el/la paciente no tiene la condición mencionada.",
+  "overview": "La escala funcional específica del/de la paciente (PSFS) cuantifica la limitación de la actividad y mide el resultado funcional según las actividades importantes identificadas por el/la paciente.",
+  "population": "La población prevista incluye las siguientes afecciones: Dolor crónico, dolor de espalda, esclerosis múltiple, pérdida y amputación de miembros, dolor y fracturas articulares, adultos mayores y atención geriátrica, y cualquier afección ortopédica.",
+  "references": "1. Stratford P, Gill C, Westaway M, Binkley J. Assessing disability and change on individual patients: a report of a patient specific measure. Physiotherapy Canada. 1995;47:258-263. \n2. Resnik L, Borgia M. Reliability of outcome measures for people with lower-limb amputations: distinguishing true change from statistical error. Phys Ther. 2011; 91(4):555-565. \n3. Hefford C, Abbott JH, Arnold R, et al. The patient-specific functional scale: validity, reliability, and responsiveness in patients with upper extremity musculoskeletal problems. J Orthop Sports Phys Ther. 2012;42(2):56-65. \n4. Berghmans DD, Lenssen AF, Rhijn LWV, et al. The Patient-Specific Functional Scale: its reliability and responsiveness in patients undergoing a total knee arthroplasty. J Orthop Sports Phys Ther. 2015;45(7):550-556. \n5. Backman SM, Strat S, Ahlstrom S, et al. Validity and sensitivity to change of the Patient Specific Functional Scale used during rehabilitation following proximal humeral fracture. 2016;38(5):487-492. \n6. Mathis R, Taylor J, Odom B, et al. Reliability and validity of the patient-specific functional scale in community-dwelling older adults. J Geriatr Phys Ther. 2019;42(3):E67-E72. \n7. Rysstad T, Grotle M, Klokk LP, et al. Responsiveness and minimal important change of the QuickDASH and PSFS when used among patients with shoulder pain. BMC Musculoskelet Disord. 2020;21(1):328.",
+  "requireCompleteness": false,
+  "score_calculation": "Puntaje promedio = suma de los puntajes de la actividad/número de actividades",
+  "score_interpretation": "0: incapaz de realizar actividad\n10: capaz de realizar una actividad al mismo nivel que antes de la lesión o el problema\n\nUn puntaje más alto indica una mejor capacidad funcional para realizar las actividades identificadas.",
+  "summaryScore": [
+    "Puntaje medio"
+  ]
+}

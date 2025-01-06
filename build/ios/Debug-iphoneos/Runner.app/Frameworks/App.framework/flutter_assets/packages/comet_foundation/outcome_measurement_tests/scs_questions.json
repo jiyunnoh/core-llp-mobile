@@ -1,0 +1,21 @@
+[
+  {
+    "group": 0,
+    "id": "scs_1",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "1. How would you score the comfort of the socket fit of your artificial limb at the start of today's visit?",
+    "type": "discrete_scale"
+  },
+  {
+    "group": 0,
+    "id": "scs_2",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "2. How would you score the comfort of the socket fit of your artificial limb following any adjustments made at today's visit?",
+    "tapQuestion": "There were no adjustments made today.",
+    "type": "discrete_scale_checkbox"
+  }
+]

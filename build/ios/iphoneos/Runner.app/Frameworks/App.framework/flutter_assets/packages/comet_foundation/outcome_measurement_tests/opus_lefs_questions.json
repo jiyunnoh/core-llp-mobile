@@ -1,0 +1,482 @@
+[
+	{
+		"group": 0,
+		"id": "opus_lefs_1a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 0,
+		"id": "opus_lefs_1b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 1,
+		"id": "opus_lefs_2a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 1,
+		"id": "opus_lefs_2b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 2,
+		"id": "opus_lefs_3a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 2,
+		"id": "opus_lefs_3b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 3,
+		"id": "opus_lefs_4a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 3,
+		"id": "opus_lefs_4b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 4,
+		"id": "opus_lefs_5a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 4,
+		"id": "opus_lefs_5b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 5,
+		"id": "opus_lefs_6a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 5,
+		"id": "opus_lefs_6b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 6,
+		"id": "opus_lefs_7a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 6,
+		"id": "opus_lefs_7b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 7,
+		"id": "opus_lefs_8a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 7,
+		"id": "opus_lefs_8b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 8,
+		"id": "opus_lefs_9a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 8,
+		"id": "opus_lefs_9b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 9,
+		"id": "opus_lefs_10a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 9,
+		"id": "opus_lefs_10b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 10,
+		"id": "opus_lefs_11a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 10,
+		"id": "opus_lefs_11b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 11,
+		"id": "opus_lefs_12a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 11,
+		"id": "opus_lefs_12b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 12,
+		"id": "opus_lefs_13a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 12,
+		"id": "opus_lefs_13b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 13,
+		"id": "opus_lefs_14a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 13,
+		"id": "opus_lefs_14b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 14,
+		"id": "opus_lefs_15a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 14,
+		"id": "opus_lefs_15b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 15,
+		"id": "opus_lefs_16a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 15,
+		"id": "opus_lefs_16b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 16,
+		"id": "opus_lefs_17a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 16,
+		"id": "opus_lefs_17b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 17,
+		"id": "opus_lefs_18a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 17,
+		"id": "opus_lefs_18b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 18,
+		"id": "opus_lefs_19a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 18,
+		"id": "opus_lefs_19b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	},
+	{
+		"group": 19,
+		"id": "opus_lefs_20a",
+		"option": [
+			"Very easy",
+			"Easy",
+			"Slightly difficult",
+			"Very difficult",
+			"Cannot do this activity"
+		],
+		"question": "How easy, or difficult, is it for you to perform this activity?",
+		"score_group": 0,
+		"type": "radial"
+	},
+	{
+		"group": 19,
+		"id": "opus_lefs_20b",
+		"option": [
+			"No",
+			"Yes"
+		],
+		"question": "Do you typically wear an orthotic or prosthetic device to perform this activity?",
+		"type": "radial"
+	}
+]

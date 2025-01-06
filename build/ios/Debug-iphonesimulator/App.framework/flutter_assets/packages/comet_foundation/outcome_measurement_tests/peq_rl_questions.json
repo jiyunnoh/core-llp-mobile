@@ -1,0 +1,59 @@
+[
+ {
+   "id": "peq_rl_1",
+   "type": "vas",
+   "group": 0,
+   "question": "rate how much you sweat inside your prosthesis (in the sock, liner, socket).",
+   "score_group": 0,
+   "min": "Extreme Amount",
+   "max": "Not at All"
+ },
+ {
+   "id": "peq_rl_2",
+   "type": "vas",
+   "group": 0,
+   "question": "rate how smelly your prosthesis was at its worst.",
+   "score_group": 0,
+   "min": "Extremely Smelly",
+   "max": "Not at All"
+ },
+  {
+    "id": "peq_rl_3",
+    "type": "vas",
+    "group": 0,
+    "question": "rate how much of the time your residual limb was swollen to the point of changing the fit of your prosthesis.",
+    "score_group": 0,
+    "min": "All the Time",
+    "max": "Never"
+  },
+  {
+    "id": "peq_rl_4",
+    "type": "vas_checkbox_combo",
+    "group": 0,
+    "question": "rate any rash(es) that you got on your residual limb.",
+    "question2": "I had no rashes on my residual limb in the last month.",
+    "score_group": 0,
+    "min": "Extremely Bothersome",
+    "max": "Not at All"
+  },
+  {
+    "id": "peq_rl_5",
+    "type": "vas_checkbox_combo",
+    "group": 0,
+    "question": "rate any ingrown hairs (pimples) that were on your residual limb.",
+    "question2": "I had no ingrown hairs on my residual limb in the last month.",
+    "score_group": 0,
+    "min": "Extremely Bothersome",
+    "max": "Not at All"
+  },
+  {
+    "id": "peq_rl_6",
+    "type": "vas_checkbox_combo",
+    "group": 0,
+    "question": "rate any blisters or sores that you got on your residual limb.",
+    "question2": "I had no blisters or sores on my residual limb in the last month.",
+    "score_group": 0,
+    "min": "Extremely Bothersome",
+    "max": "Not at All"
+  }
+]

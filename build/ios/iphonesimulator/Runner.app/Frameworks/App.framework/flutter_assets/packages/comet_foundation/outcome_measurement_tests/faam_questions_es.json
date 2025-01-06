@@ -1,0 +1,450 @@
+[
+  {
+    "group": 0,
+    "id": "faam_1",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "1. Estar de pie",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_2",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "2. Caminar en terreno llano",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_3",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "3. Caminar en terreno llano sin zapatos",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_4",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "4. Caminar cuesta arriba",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_5",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "5. Caminar cuesta abajo",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_6",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "6. Subir escaleras",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_7",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "7. Bajar escaleras",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_8",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "8. Caminar en terreno irregular",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_9",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "9. Subir y bajar bordillos",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_10",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "10. Ponerse en cuclillas",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_11",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "11. Ponerse de puntillas",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_12",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "12. Comenzar a andar",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_13",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "13. Andar 5 minutos o menos",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_14",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "14. Caminar 10 minutos aproximadamente",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_15",
+    "option": [
+      "Sin dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "15. Caminar 15 minutos o más",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_16",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "16. Tares domésticas",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_17",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "17. Actividades de la vida diaria",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_18",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "18. Cuidado personal",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_19",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "19. Trabajo de ligero a moderado (estar de pie, caminar)",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_20",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "20. Trabajo duro (empujar/tirar, escalar, transportar)",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_21",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "21. Actividades de recreo",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "faam_22",
+    "max": "100",
+    "min": "0",
+    "question": "¿Cómo calificaría su actual nivel de función durante sus actividades habituales de la vida diaria de 0 a 100, siendo 100 el nivel de función anterior a su problema de pie o tobillo y 0 la incapacidad para llevar a cabo cualquiera de sus actividades diarias habituales?",
+    "type": "vas"
+  },
+  {
+    "group": 1,
+    "id": "faam_23",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "1. Correr",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_24",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "2. Saltar",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_25",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "3. Aterrizar (caída al suelo del salto)",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_26",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "4. Arrancar y detenerse rápidamente",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_27",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "5. Movimientos laterales",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_28",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "6. Capacidad para practicar ejercicio con su técnica normal",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_29",
+    "option": [
+      "Sin ninguna dificultad",
+      "Ligera dificultad",
+      "Moderada dificultad",
+      "Extrema dificultad",
+      "Imposible de realizar",
+      "N/A"
+    ],
+    "question": "7. Capacidad para participar en su deporte deseado tanto tiempo como quiera",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "faam_30",
+    "max": "100",
+    "min": "0",
+    "question": "¿Cómo calificaría su nivel actual de función durante sus actividades deportivas de 0 a 100, siendo 100 el nivel función anterior a su problema de pie o tobillo y 0 la incapacidad para realizar cualquiera de sus actividades deportivas?",
+    "type": "vas"
+  },
+  {
+    "group": 1,
+    "id": "faam_31",
+    "option": [
+      "Normal",
+      "Casi normal",
+      "Anormal",
+      "Severamente anormal"
+    ],
+    "question": "En general, ¿cómo calificaría su nivel actual de función?",
+    "type": "radial"
+  }
+]

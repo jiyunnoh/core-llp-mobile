@@ -1,0 +1,276 @@
+[
+  {
+    "icon": "chart",
+    "id": "psq",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Patient Satisfaction Questionnaire",
+    "shortName": "PSQ",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "psfs",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "La escala funcional específica del/de la paciente",
+    "shortName": "PSFS",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "walker",
+    "id": "oms",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "name": "Orthotic Mobility Score",
+    "shortName": "OMS",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "dash",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Discapacidades del brazo, hombro y mano",
+    "shortName": "DASH",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "prosthetic",
+    "id": "pmq",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Cuestionario de movilidad protésica",
+    "shortName": "PMQ",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "prosthetic",
+    "id": "scs",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Puntaje de comodidad del encaje",
+    "shortName": "SCS",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "nprs",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Numeric Pain Rating Scale",
+    "shortName": "NPRS",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "promispi",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "PROMIS – Efectos del dolor",
+    "promoText": "Temporarily removed for technical updates.",
+    "shortName": "PROMIS-PI",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "fh",
+    "isActive": true,
+    "isLLPRAccepted": false,
+    "name": "Fall History",
+    "shortName": "FH",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "tug",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Prueba cronometrada de Levántate y Anda",
+    "shortName": "TUG",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "fsst",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Four Square Step Test",
+    "shortName": "FSST",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "timer",
+    "id": "tmwt",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Prueba de caminata de 10 metros",
+    "shortName": "TMWT",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "performance"
+    ]
+  },
+  {
+    "icon": "walker",
+    "id": "lefs",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Lower Extremity Functional Scale",
+    "shortName": "LEFS",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "foot",
+    "id": "faam",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Medida de la habilidad de pie y tobillo",
+    "shortName": "FAAM",
+    "supportedLocale": [
+      "en",
+      "es"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "uefi",
+    "isActive": true,
+    "isLLPRAccepted": true,
+    "name": "Upper Extremity Functional Index",
+    "shortName": "UEFI",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "upperExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "peq",
+    "isActive": false,
+    "isLLPRAccepted": false,
+    "name": "Cuestionario de evaluación de prótesis",
+    "promoText": "¡Muy pronto!",
+    "shortName": "PEQ",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "patientReported"
+    ]
+  },
+  {
+    "icon": "chart",
+    "id": "opus",
+    "isActive": false,
+    "isLLPRAccepted": false,
+    "name": "Encuesta de Usuarios de Ortesis y Prótesis",
+    "promoText": "¡Muy pronto!",
+    "shortName": "OPUS",
+    "supportedLocale": [
+      "en"
+    ],
+    "tags": [
+      "lowerExtremity",
+      "upperExtremity",
+      "patientReported"
+    ]
+  }
+]

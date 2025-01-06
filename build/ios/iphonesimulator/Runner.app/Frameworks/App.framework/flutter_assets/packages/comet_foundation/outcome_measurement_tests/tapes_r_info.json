@@ -1,0 +1,30 @@
+{
+  "equipment": "None",
+  "groupHeaders": [
+    "Below are written a series of statements concerning the wearing of a prosthesis. Please read through each statement carefully. Then select a response, which shows how strongly you agree or disagree with it.",
+    "The following questions are about activities you might do during a typical day. Does having a prosthesis limit you in these activities? If so, how much? Please select the appropriate response.",
+    "Please select the response that represents the extent to which you are satisfied or dissatisfied with each of the different aspects of your prosthesis mentioned below:",
+    "For the following questions, please select the appropriate response.",
+    "Residual Limb Pain",
+    "Phantom Limb Pain",
+    "Medical Problems"
+  ],
+  "instructions": "The person with a prosthesis is asked to complete the questionnaire as honestly as possible. There are no right or wrong answers. If the person with a prosthesis needs help to complete the questionnaire, the answers should be given from his/her point of view.",
+  "mcid_mdc": "None",
+  "overview": "The Trinity Amputation and Prosthesis Experience Scales - Revised (TAPES-R) is a patient-reported outcome measure evaluating adjustment to using a prosthetic limb. It consists of three scored sections: the psychosocial adjustment section which consists of three subscales (general adjustment, social adjustment, and adjustment to limitation), the activity restriction section, and the satisfaction with the prosthesis section which consists of two subscales (aesthetic and functional satisfaction). A fourth, unscored section assesses pain.",
+  "population": "Prosthesis users",
+  "references": "1. Gallagher P, Franchignoni F, Giordano A, MacLachlan M. (2010) Trinity Amputation and Prosthesis Experience Scales: A Psychometric Assessment Using Classical Test Theory and Rasch Analysis (TAPES). American Journal of Physical Medicine and Rehabilitation. 89 (6): 487-496\n2. Gallagher, P. & MacLachlan, M. (2000) Development and psychometric evaluation of the Trinity Amputation and Prosthesis Experience Scales (TAPES). Rehabilitation Psychology, 45, 130-154",
+  "requireCompleteness": false,
+  "score_calculation": "Psychosocial Adjustment Scale score = average of completed/applicable responses for items 1-15\nActivity Restriction Scale score = average of completed/applicable responses for items 16-25\nSatisfaction Scale score = sum of responses for items 26-33",
+  "score_interpretation": "Higher scores represent positive adjustment (ranging 1-4), greater activity restriction (ranging 0-2), and greater satisfaction (ranging 8-24) with the prosthesis.",
+  "summaryScore": [
+    "Psychosocial Adjustment",
+    "Activity Restriction",
+    "Satisfaction",
+    "General Satisfaction"
+  ],
+  "minYValue": "0",
+  "maxYValue": "10",
+  "yAxisInterval": "2",
+  "shouldReverse": "false"
+}

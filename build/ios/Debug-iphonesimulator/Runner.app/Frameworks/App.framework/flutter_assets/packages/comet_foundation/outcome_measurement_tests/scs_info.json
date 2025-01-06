@@ -1,0 +1,29 @@
+{
+  "dictionary": [
+    "adjustments",
+    "artificialLimb",
+    "rate",
+    "scale",
+    "socket"
+  ],
+  "equipment": "None",
+  "groupHeaders": [
+    "On a scale of 0 - 10, if 0 represents the most uncomfortable socket fit you can imagine, and 10 represents the most comfortable socket fit:"
+  ],
+  "instructions": "Ask the patient to rate the comfort of his/her socket on a 0 to 10 scale where 0 represents the most uncomfortable and 10 represents the most comfortable socket imaginable.",
+  "mcid_mdc": "None",
+  "overview": "The Socket Comfort Score (SCS) is a self-reporting tool that uses an 11-point numerical rating scale specifically validated for assessment of prosthetic socket fit and comfort.",
+  "population": "The intended population includes the following condition: Prosthesis Users.",
+  "references": "1. Hanspal RS, Fisher K, Nieveen R. Prosthetic socket fit comfort score. Disabil Rehabil. 2003 Nov 18;25(22):1278-80. doi: 10.1080/09638280310001603983. PMID: 14617445.",
+  "requireCompleteness": true,
+  "score_calculation": "The score is reported as the whole number response.",
+  "score_interpretation": "None",
+  "summaryScore": [
+    "Export Report for Results"
+  ],
+  "minYValue": "0",
+  "maxYValue": "10",
+  "yAxisInterval": "2",
+  "shouldReverse": "false",
+  "significantFigures": "0"
+}

@@ -1,0 +1,130 @@
+{
+  "compass": {
+    "id": "compass",
+    "title": "COMPASS",
+    "description": "description",
+    "conditions": [
+      "prosthetic",
+      "lower",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "tug",
+      "tminwt",
+      "peq_ut",
+      "peq_rl",
+      "tapes_r",
+      "eq5d_5l",
+      "psfs",
+      "amp"
+    ]
+  },
+
+  "domain_test": {
+  "id": "demo",
+  "title": "Smart P&O Demo",
+  "description" : "description",
+  "conditions": [
+    "prosthetic",
+    "lower",
+    "other"
+  ],
+  "outcomeMeasures": [
+    "psfs",
+    "scs",
+    "promispi",
+    "tug",
+    "tmwt",
+    "fh"
+  ]
+},
+  "lepros": {
+    "id": "lepros",
+    "title": "LE Prosthetics",
+    "description" : "description",
+    "conditions": [
+      "prosthetic",
+      "lower",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "opus_swds",
+      "scs",
+      "promispi",
+      "tug",
+      "peq_ut",
+      "pmq",
+      "opus_hqol"
+    ]
+  },
+  "uepros": {
+    "id": "uepros",
+    "title": "UE Prosthetics",
+    "conditions": [
+      "prosthetic",
+      "upper",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "opus_swds",
+      "nprs",
+      "promispi",
+      "opus_uefs",
+      "tug",
+      "opus_hqol"
+    ]
+  },
+  "leortho": {
+    "id": "leortho",
+    "title": "LE Orthotics",
+    "conditions": [
+      "orthotic",
+      "lower",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "opus_swds",
+      "nprs",
+      "promispi",
+      "oms",
+      "lefs",
+      "opus_hqol"
+    ]
+  },
+  "ueortho": {
+    "id": "ueortho",
+    "title": "UE Orthotics",
+    "conditions": [
+      "orthotic",
+      "upper",
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "opus_swds",
+      "nprs",
+      "promispi",
+      "uefi",
+      "opus_hqol"
+    ]
+  },
+  "generalRehab": {
+    "id": "generalRehab",
+    "title": "General Rehab",
+    "conditions": [
+      "other"
+    ],
+    "outcomeMeasures": [
+      "psfs",
+      "scs",
+      "nprs",
+      "promispi",
+      "pmq",
+      "tug",
+      "opus_hqol"
+    ]
+  }
+}

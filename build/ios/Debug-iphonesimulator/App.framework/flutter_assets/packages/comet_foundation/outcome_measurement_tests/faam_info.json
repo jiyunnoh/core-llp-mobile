@@ -1,0 +1,36 @@
+{
+  "dictionary": [
+    "ability",
+    "abnormal",
+    "curbs",
+    "difficulty",
+    "inability",
+    "lateral",
+    "overall",
+    "rate",
+    "recreational",
+    "squatting",
+    "technique",
+    "uneven"
+  ],
+  "equipment": "None",
+  "groupHeaders": [
+    "Please answer every question with one response that most closely describes your condition within the past week. If the activity in question is limited by something other than your foot or ankle, mark \"Not Applicable\" (N/A). Because of your foot and ankle how much difficulty do you have with:",
+    "Because of your foot and ankle how much difficulty do you have with:"
+  ],
+  "instructions": "Please ask your patient to answer every question with one response that most closely describes their condition within the past week. If the activity in question is limited by something other than their foot or ankle, mark \"Not Applicable\" (N/A).",
+  "mcid_mdc": "MCID = Minimally Clinically Important Difference, MDC = Minimal Detectable Change\n\nVarious Foot/Ankle Musculoskeletal Disorders: MCID = 8 points (ADL Subscale) and 9 points (Sports Subscale); MDC = 5.7 points (ADL Subscale) and 12.3 points (Sports Subscale).\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Foot and Ankle Ability Measure (FAAM) is a self-report measure that assesses physical function of individuals with lower leg, foot, and ankle musculoskeletal disorders. This instrument includes 2 subscales: 21-item Activities of Daily Living (ADLs) subscale and 8-item Sports subscale.",
+  "population": "The intended population includes the following conditions:  Musculoskeletal Conditions of the Leg, Foot, and Ankle.",
+  "references": "1. Martin RL, Irrgang JJ, Burdett RG, et al. Evidence of validity for the Foot and Ankle Ability Measure (FAAM). Foot Ankle Int. 2005;26(11):968-983. doi:10.1177/107110070502601113",
+  "requireCompleteness": false,
+  "score_calculation": "Answers for both subscales are based on a Likert scale (4-0) as follows: 0 = unable to do, 1 = extreme difficulty, 2 = moderate difficulty, 3 = slight difficulty, 4 = no difficulty. If an activity is limited by something other than their foot or ankle, the patient is asked to record N/A. Questions for which N/A is indicated are not counted. \n\nFAAM ADL Score = [(sum of n responses)/4n] x 100, where n is equal to the number of completed responses. A FAAM ADL score may not be calculated if there is greater than one missing item. \n\nFAAM Sports Score = [(sum of n responses)/4n] x 100, where n is equal to the number of completed responses. A FAAM Sports score may not be calculated if there is greater than one missing item.",
+  "score_interpretation": "The score is represented on a 0-100 scale where 0 represents the least function and 100 represents the most function.",
+  "summaryScore": [
+    "ADL Score",
+    "Sports Score"
+  ],
+  "minYValue": "0",
+  "maxYValue": "100",
+  "yAxisInterval": "2"
+}

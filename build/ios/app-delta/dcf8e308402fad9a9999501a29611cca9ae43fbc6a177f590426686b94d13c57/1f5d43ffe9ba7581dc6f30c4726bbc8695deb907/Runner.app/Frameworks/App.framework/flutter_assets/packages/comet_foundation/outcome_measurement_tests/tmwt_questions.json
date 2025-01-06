@@ -1,0 +1,58 @@
+[
+  {
+    "group": 0,
+    "id": "tmwt_1",
+    "question": "Comfortable walk trial #1",
+    "type": "time"
+  },
+  {
+    "group": 0,
+    "id": "tmwt_2",
+    "question": "Comfortable walk trial #2",
+    "type": "time"
+  },
+  {
+    "group": 1,
+    "id": "tmwt_3",
+    "question": "Fast walk trial #1",
+    "type": "time"
+  },
+  {
+    "group": 1,
+    "id": "tmwt_4",
+    "question": "Fast walk trial #2",
+    "type": "time"
+  },
+  {
+    "group": 0,
+    "id": "tmwt_5",
+    "question": "Were any assistive devices used when completing this test?",
+    "type": "text"
+  },
+  {
+    "group": 0,
+    "id": "tmwt_6",
+    "option": [
+      "totalAssistance",
+      "maximumAssistance",
+      "moderateAssistance",
+      "minimumAssistance",
+      "supervision",
+      "modifiedIndependent",
+      "independent"
+    ],
+    "question": "What level of assistance was required when completing this test?",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tmwt_7",
+    "option": [
+      "6",
+      "8",
+      "10"
+    ],
+    "question": "What was the actual distance timed for this test?",
+    "type": "radial"
+  }
+]

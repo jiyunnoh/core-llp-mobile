@@ -1,0 +1,15 @@
+{
+  "equipment": "",
+  "instructions": "",
+  "mcid_mdc": "",
+  "overview": "",
+  "population": "",
+  "references": "",
+  "score_calculation": "",
+  "score_interpretation": "",
+  "minYValue": "0",
+  "maxYValue": "100",
+  "yAxisInterval": "20",
+  "yAxisLabel": "Prosthesis Dynamics",
+  "secondaryYAxisLabel": "Temporal Symmetry"
+}

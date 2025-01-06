@@ -1,0 +1,22 @@
+{
+  "equipment": "None",
+  "instructions": "Ask the patient to report the number of falls in the last four weeks or in the last six months if it has been more than four weeks since a visit. In addition, ask the patient to report the number of falls in the last 12 months that resulted in an injury and required medical attention.",
+  "mcid_mdc": "None",
+  "overview": "The Fall History is a patient report on the number of falls.",
+  "population": "The intended population includes any individuals at risk for falls.",
+  "references": "1. Miller WC, Speechley M, Deathe B. The prevalence and risk factors of falling and fear of falling among lower extremity amputees. Arch Phys Med Rehabil. 2011;82(8):1031-1037.\n2. Hafner BJ, Smith DG. Differences in function and safety between Medicare Functional Classification Level-2 and -3 transfemoral amputees and influence of prosthetic knee joint control. J Rehabil Res Dev. 2009;46(3):417-434.\n3. Kahle JT, Highsmith MJ, Hubbard SL. Comparison of nonmicroprocessor knee mechanism versus C-Leg on Prosthesis Evaluation Questionnaire, stumbles, falls, walking tests, stair descent, and knee preference. J Rehabil Res Dev. 2008;45(1):1-14. \n4. Lord SR, Sherrington C, Menz HB, et al. Falls in Older People: Risk Factors and Strategies for Prevention (2nd ed.). New York, USA: Cambridge University Press, 2011.",
+  "requireCompleteness": true,
+  "score_calculation": "The number of falls is reported as a whole number response.",
+  "score_interpretation": "None",
+  "summaryScore": [
+    "Falls in Last {duration}",
+    "Injurious Falls"
+  ],
+  "minYValue": "0",
+  "maxYValue": "3.6",
+  "yAxisInterval": "0.6",
+  "yAxisLabel": "Falls over 12 Months",
+  "yAxisUnit": "falls/year",
+  "shouldReverse": "true",
+  "significantFigures": "1"
+}

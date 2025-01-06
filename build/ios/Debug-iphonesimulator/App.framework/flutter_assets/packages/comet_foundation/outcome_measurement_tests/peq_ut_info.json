@@ -1,0 +1,20 @@
+{
+  "equipment": "None",
+  "groupHeaders": [
+    "Over the past four weeks, "
+  ],
+  "instructions": "Instruct your patient to respond to all of the questions with the response that most closely reflects their opinion.",
+  "mcid_mdc": "None",
+  "overview": "The Prosthesis Evaluation Questionnaire (PEQ) is composed of 9 validated scales that are each comprised of multiple questions to evaluate different aspects of a prosthetic use.  The Utility scale assess the level of utility the prosthesis user perceives in their prosthesis.",
+  "population": "Prosthesis users.",
+  "references": "1. Legro MW, Reiber GD, Smith DG, del Aguila M, Larsen J, Boone D. Prosthesis evaluation questionnaire for persons with lower limb amputations: assessing prothesis-related quality of life. Arch Phys Med Rehabil. 1998;79(8):931-8.\n2. Legro MW, Reiber GD, del Aguila MD, Ajax MJ, Boone DA, Larsen JA, Smith DG, Sangeorzan B. Issues of importance reported by persons with lower limb amputations and prostheses. J Rehabil Res Dev. 1999;36(3):155-63.",
+  "requireCompleteness": false,
+  "score_calculation": "Each visual analog scale is scored 0-100. If a question has no response it will be recorded as \"nr (no response)\". To calculate the scale scores take the average of all of the questions in a scale. If an individual only answers part of a scale of questions, take the average of the questions answered. At least half of the questions in a scale must have a response in order for this scale to be valid.",
+  "score_interpretation": "Higher scores correspond with a more positive outcome. \nMean = 72.",
+  "summaryScore": [
+    "Total Score"
+  ],
+  "minYValue": "0",
+  "maxYValue": "100",
+  "yAxisInterval": "20"
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "group": 0,
+    "id": "lefs_1",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "1. Any of your usual work, housework, or school activities.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_2",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "2. Your usual hobbies, recreational or sporting activities.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_3",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "3. Getting into or out of the bath.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_4",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "4. Walking between rooms.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_5",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "5. Putting on your shoes or socks.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_6",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "6. Squatting.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_7",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "7. Lifting an object, like a bag of groceries from the floor.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_8",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "8. Performing light activities around your home.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_9",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "9. Performing heavy activities around your home.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_10",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "10. Getting into or out of a car.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_11",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "11. Walking 2 blocks.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_12",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "12. Walking a mile.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_13",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "13. Going up or down 10 stairs (about 1 flight of stairs). ",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_14",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "14. Standing for 1 hour.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_15",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "15. Sitting for 1 hour.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_16",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "16. Running on even ground.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_17",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "17. Running on uneven ground.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_18",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "18. Making sharp turns while running fast.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_19",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "19. Hopping.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "lefs_20",
+    "option": [
+      "Extreme Difficulty or Unable to Perform Activity",
+      "Quite a Bit of Difficulty",
+      "Moderate Difficulty",
+      "A Little Bit of Difficulty",
+      "No Difficulty"
+    ],
+    "question": "20. Rolling over in bed.",
+    "score_group": 0,
+    "type": "radial"
+  }
+]

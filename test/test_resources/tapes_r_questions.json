@@ -1,0 +1,643 @@
+[
+  {
+    "group": 0,
+    "id": "tapes_r_1",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "1. I have adjusted to having a prosthesis",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_2",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "2. As time goes by, I accept my prosthesis more",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_3",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "3. I feel that I have dealt successfully with this trauma in my life",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_4",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "4. Although I have a prosthesis, my life is full",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_5",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "5. I have gotten used to wearing a prosthesis",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_6",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "6. I don't care if somebody looks at my prosthesis",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_7",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "7. I find it easy to talk about my prosthesis",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_8",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "8. I don't mind people asking about my prosthesis",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_9",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "9. I find it easy to talk about my limb loss in conversation",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_10",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "10. I don't care if somebody notices that I am limping",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_11",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "11. A prosthesis interferes with the ability to do my work",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_12",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "12. Having a prosthesis makes me more dependent on others than I would like to be",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_13",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "13. Having a prosthesis limits the kind of work that I can do",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_14",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "14. Being an amputee means that I can't do what I want to do",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "tapes_r_15",
+    "option": [
+      "Strongly disagree",
+      "Disagree",
+      "Agree",
+      "Strongly agree",
+      "Not applicable"
+    ],
+    "question": "15. Having a prosthesis limits the amount of work that I can do",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_16",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "16. Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_17",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "17. Climbing several flights of stairs",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_18",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "18. Running for a bus",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_19",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "19. Sport and recreation",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_20",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "20. Climbing one flight of stairs",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_21",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "21. Walking more than a mile",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_22",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "22. Walking half a mile",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_23",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "23. Walking 100 metres",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_24",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all"
+    ],
+    "question": "24. Working on hobbies",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "tapes_r_25",
+    "option": [
+      "Yes, limited a lot",
+      "Limited a little",
+      "No, not limited at all",
+      "Not applicable"
+    ],
+    "question": "25. Going to work",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_26",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "26. Colour",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_27",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "27. Shape",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_28",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "28. Appearance",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_29",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "29. Weight",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_30",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "30. Usefulness",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_31",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "31. Reliability",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_32",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "32. Fit",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_33",
+    "option": [
+      "Not satisfied",
+      "Satisfied",
+      "Very satisfied"
+    ],
+    "question": "33. Comfort",
+    "score_group": 3,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "tapes_r_34",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "Please select the number (0-10) that best describes how satisfied you are with your prosthesis?",
+    "score_group": 4,
+    "type": "discrete_scale"
+  },
+  {
+    "group": 3,
+    "id": "tapes_r_35",
+    "interval": 1,
+    "max": 24,
+    "min": 0,
+    "question": "On average, how many hours a day do you wear your prosthesis?",
+    "type": "discrete_scale"
+  },
+  {
+    "group": 3,
+    "id": "tapes_r_36",
+    "option": [
+      "Very poor",
+      "Poor",
+      "Fair",
+      "Good",
+      "Very good"
+    ],
+    "question": "In general, would you say your health is:",
+    "type": "radial"
+  },
+  {
+    "group": 3,
+    "id": "tapes_r_37",
+    "option": [
+      "Very poor",
+      "Poor",
+      "Fair",
+      "Good",
+      "Very good"
+    ],
+    "question": "In general, would you say your physical capabilities are:",
+    "type": "radial"
+  },
+  {
+    "group": 4,
+    "id": "tapes_r_38",
+    "option": [
+      "No",
+      "Yes"
+    ],
+    "question": "Do you experience residual limb (stump) pain (pain in the remaining part of your amputated limb)?",
+    "type": "radial"
+  },
+  {
+    "group": 4,
+    "id": "tapes_r_39",
+    "interval": 1,
+    "max": 14,
+    "min": 0,
+    "question": "During the last week, how many times have you experienced stump pain?",
+    "tapQuestion": "More than 14",
+    "type": "discrete_scale_checkbox"
+  },
+  {
+    "group": 4,
+    "id": "tapes_r_40",
+    "question": "How long, on average, did each episode of pain last?",
+    "type": "text"
+  },
+  {
+    "group": 4,
+    "id": "tapes_r_41",
+    "option": [
+      "Excruciating",
+      "Horrible",
+      "Distressing",
+      "Discomforting",
+      "Mild"
+    ],
+    "question": "Please indicate the average level of stump pain experienced during the last week on the scale below by selecting the appropriate response.",
+    "type": "radial"
+  },
+  {
+    "group": 4,
+    "id": "tapes_r_42",
+    "option": [
+      "A lot",
+      "Quite a bit",
+      "Moderately",
+      "A little bit",
+      "Not at all"
+    ],
+    "question": "How much did stump pain interfere with your normal lifestyle (e.g., work, social and family activities) during the last week?",
+    "type": "radial"
+  },
+  {
+    "group": 5,
+    "id": "tapes_r_43",
+    "option": [
+      "No",
+      "Yes"
+    ],
+    "question": "Do you experience phantom limb pain (pain in the part of your limb that was amputated)?",
+    "type": "radial"
+  },
+  {
+    "group": 5,
+    "id": "tapes_r_44",
+    "interval": 1,
+    "max": 14,
+    "min": 0,
+    "question": "During the last week, how many times have you experienced phantom limb pain?",
+    "tapQuestion": "More than 14",
+    "type": "discrete_scale_checkbox"
+  },
+  {
+    "group": 5,
+    "id": "tapes_r_45",
+    "question": "How long, on average, did each episode of pain last?",
+    "type": "text"
+  },
+  {
+    "group": 5,
+    "id": "tapes_r_46",
+    "option": [
+      "Excruciating",
+      "Horrible",
+      "Distressing",
+      "Discomforting",
+      "Mild"
+    ],
+    "question": "Please indicate the average level of phantom limb pain experienced during the last week on the scale below by selecting the appropriate response.",
+    "type": "radial"
+  },
+  {
+    "group": 5,
+    "id": "tapes_r_47",
+    "option": [
+      "A lot",
+      "Quite a bit",
+      "Moderately",
+      "A little bit",
+      "Not at all"
+    ],
+    "question": "How much did phantom limb pain interfere with your normal lifestyle (e.g., work, social and family activities) during the last week?",
+    "type": "radial"
+  },
+  {
+    "group": 6,
+    "id": "tapes_r_48",
+    "option": [
+      "No",
+      "Yes"
+    ],
+    "question": "Do you experience any other medical problems apart from stump pain or phantom limb pain?",
+    "type": "radial"
+  },
+  {
+    "group": 6,
+    "id": "tapes_r_49",
+    "question": "Please specify what problems you experience.",
+    "type": "text"
+  },
+  {
+    "group": 6,
+    "id": "tapes_r_50",
+    "interval": 1,
+    "max": 14,
+    "min": 0,
+    "question": "During the last week, how many times have you suffered from these medical problems?",
+    "tapQuestion": "More than 14",
+    "type": "discrete_scale_checkbox"
+  },
+  {
+    "group": 6,
+    "id": "tapes_r_51",
+    "question": "How long, on average, did each problem last?",
+    "type": "text"
+  },
+  {
+    "group": 6,
+    "id": "tapes_r_52",
+    "option": [
+      "Excruciating",
+      "Horrible",
+      "Distressing",
+      "Discomforting",
+      "Mild"
+    ],
+    "question": "Please indicate the level of pain experienced as a result of these problems during the last week on the scale below by selecting the appropriate response.",
+    "type": "radial"
+  },
+  {
+    "group": 6,
+    "id": "tapes_r_53",
+    "option": [
+      "A lot",
+      "Quite a bit",
+      "Moderately",
+      "A little bit",
+      "Not at all"
+    ],
+    "question": "How much did these medical problems interfere with your normal lifestyle (e.g., work, social and family activities) during the last week?",
+    "type": "radial"
+  },
+  {
+    "group": 6,
+    "id": "tapes_r_54",
+    "question": "Please specify any other pain you experience that you have not previously mentioned.",
+    "tapQuestion": "I do not experience any other pain.",
+    "type": "text_checkbox"
+  }
+]

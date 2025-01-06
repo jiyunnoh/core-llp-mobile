@@ -1,0 +1,21 @@
+[
+  {
+    "group": 0,
+    "id": "scs_1",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "1. ¿Cómo calificaría la comodidad del encaje de su prótesis al comienzo de la visita de hoy?",
+    "type": "discrete_scale"
+  },
+  {
+    "group": 0,
+    "id": "scs_2",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "2. ¿Cómo calificaría la comodidad del encaje de su prótesis después de los ajustes realizados en la visita de hoy?",
+    "tapQuestion": "No se realizaron cambios hoy.",
+    "type": "discrete_scale_checkbox"
+  }
+]

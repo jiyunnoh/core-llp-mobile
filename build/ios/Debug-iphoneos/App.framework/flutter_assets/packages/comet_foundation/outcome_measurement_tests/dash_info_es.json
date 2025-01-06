@@ -1,0 +1,52 @@
+{
+  "dictionary": [
+    "badminton",
+    "briefcase",
+    "capable",
+    "cardplaying",
+    "chores",
+    "confident",
+    "difficulty",
+    "extent",
+    "frisbee",
+    "hammering",
+    "homemaking",
+    "household",
+    "instrument",
+    "interfered",
+    "knitting",
+    "lbs",
+    "musical",
+    "overhead",
+    "performed",
+    "practicing",
+    "pulloverSweater",
+    "recreational",
+    "severity",
+    "stiffness",
+    "symptoms",
+    "technique",
+    "tingling",
+    "transportation"
+  ],
+  "equipment": "Ninguno(a)",
+  "groupHeaders": [
+    "Por favor, califique su capacidad para realizar las siguientes actividades durante la última semana al seleccionar la respuesta adecuada.",
+    "Por favor califique la gravedad de los siguientes síntomas durante la semana pasada.",
+    "Las siguientes preguntas son sobre el impacto de su problema de brazo, hombro o mano en su habilidad para trabajar (incluyendo en el hogar, si esa es su función principal de trabajo).",
+    "Las siguientes preguntas están relacionadas al impacto de su problema del brazo, hombro o mano al momento de tocar un instrumento musical o practicar un deporte ó ambos. Si usted practica mas de un deporte ó toca mas de un instrumento (o ambos) por favor conteste en relación a la actividad que es mas importante para usted."
+  ],
+  "instructions": "Este cuestionario le pregunta al paciente sobre sus síntomas y su capacidad para realizar determinadas actividades. Por favor, pídale a su paciente que responda todas las preguntas, según su estado en la última semana, al seleccionar la respuesta adecuada. Si no tuvo la oportunidad de realizar la actividad la semana pasada, por favor, pídale que haga su mejor estimación sobre qué respuesta sería la más precisa. No importa qué mano o brazo el/la paciente utilice para realizar la actividad; por favor pídale que responda según su capacidad, independientemente de cómo realice la tarea.",
+  "mcid_mdc": "MCID = Diferencia mínimamente importante desde el punto de vista clínico, MDC = Cambio mínimo detectable\n\nAdultos con afecciones musculoesqueléticas de la extremidad superior: MDC = 12.2; MCID = 10.2. \nAtletas intercolegiales: MDC = 10.\n\nEstos son valores publicados para poblaciones específicas y brindan orientación si el/la paciente no tiene la condición mencionada.",
+  "overview": "Las discapacidades del brazo, hombro y mano (DASH) están diseñadas para evaluar trastornos, medir la discapacidad de las extremidades superiores y monitorear cambios o funciones a lo largo del tiempo.",
+  "population": "La población prevista incluye las siguientes afecciones:  Afecciones musculoesqueléticas de la extremidad superior, esclerosis múltiple y dolor crónico.",
+  "references": "1. Schmitt JS, Di Fabio RP. Reliable change and minimum important difference (MID) proportions facilitated group responsiveness comparisons using individual threshold criteria. J Clin Epidemiol. 2004;57(10):1008-1018. doi:10.1016/j.jclinepi.2004.02.007\n2. Hsu JE, Nacke E, Park MJ, et al. The Disabilities of the Arm, Shoulder, and Hand questionnaire in intercollegiate athletes: validity limited by ceiling effect. J Shoulder Elbow Surg. 2010;19(3):349-354. doi:10.1016/j.jse.2009.11.006",
+  "requireCompleteness": false,
+  "score_calculation": "Puntaje de discapacidad/síntomas DASH = [(suma de n respuestas/n)-1] x 25, donde n es igual al número de respuestas completadas. Es posible que no se calcule un puntaje DASH si faltan más de 3 elementos. \n\nPuntaje del módulo DASH = [(suma de 4 respuestas/4)-1] x 25, donde 4 es igual al número de respuestas completadas. Es posible que no se calcule un puntaje de módulo opcional si faltan elementos.",
+  "score_interpretation": "El puntaje se representa en una escala de 0 a 100, donde 100 representa la mayor discapacidad y 0 representa la menor discapacidad. ",
+  "summaryScore": [
+    "Puntaje total",
+    "Puntaje total para el trabajo",
+    "Puntaje total para deportes/artes"
+  ]
+}

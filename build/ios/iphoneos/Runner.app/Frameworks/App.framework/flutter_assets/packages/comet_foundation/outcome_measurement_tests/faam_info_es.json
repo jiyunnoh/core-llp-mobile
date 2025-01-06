@@ -1,0 +1,33 @@
+{
+  "dictionary": [
+    "ability",
+    "abnormal",
+    "curbs",
+    "difficulty",
+    "inability",
+    "lateral",
+    "overall",
+    "rate",
+    "recreational",
+    "squatting",
+    "technique",
+    "uneven"
+  ],
+  "equipment": "Ninguno(a)",
+  "groupHeaders": [
+    "Por favor conteste cada pregunta con una sola respuesta que mejor describa su condición durante la semana pasada. Si la actividad en cuestión está limitada por algo que no sea el pie o tobillo, márquela como \"No aplicable\" (N/A). A causa de su pie y tobillo, cuánta dificultad tiene para:",
+    "A causa de su pie y tobillo, cuánta dificultad tiene para:"
+  ],
+  "instructions": "Por favor, pídale a su paciente que responda todas las preguntas con una respuesta que describa mejor su condición durante la semana pasada. Si la actividad en cuestión está limitada por algo que no sea el pie o el tobillo, marque “No aplica” (N/A).",
+  "mcid_mdc": "MCID = Diferencia mínimamente importante desde el punto de vista clínico, MDC = Cambio mínimo detectable\n\nAVD = actividades de la vida diaria (muchas veces se refiere como \"activities of daily living\" o \"ADL\")\n\nDiversos trastornos musculoesqueléticos del pie/tobillo: MCID = 8 puntos (subescala ADL) y 9 puntos (subescala Deportes); MDC = 5.7 puntos (subescala ADL) y 12.3 puntos (subescala Deportes).\n\nEstos son valores publicados para poblaciones específicas y brindan orientación si el/la paciente no tiene la condición mencionada.",
+  "overview": "La Medida de la habilidad de pie y tobillo (FAAM) es una medida de autoinforme que evalúa la función física de las personas con trastornos musculoesqueléticos de la parte inferior de la pierna, el pie y el tobillo. Este instrumento incluye dos subescalas: Subescala de actividades de la vida diaria (ADL) de 21 elementos y la Subescala de deportes de 8 elementos.",
+  "population": "La población prevista incluye las siguientes afecciones:  Afecciones musculoesqueléticas de la pierna, el pie y el tobillo.",
+  "references": "1. Martin RL, Irrgang JJ, Burdett RG, et al. Evidence of validity for the Foot and Ankle Ability Measure (FAAM). Foot Ankle Int. 2005;26(11):968-983. doi:10.1177/107110070502601113",
+  "requireCompleteness": false,
+  "score_calculation": "Las respuestas para ambas subescalas se basan en una escala Likert (4-0) de la siguiente manera: 0 = imposible de realizar, 1 = extrema dificultad, 2 = moderada dificultad, 3 = ligera dificultad, 4 = sin dificultad. Si una actividad está limitada por algo que no sea su pie o tobillo, se le pide al paciente que registre N/A. Las preguntas para las que se indica N/A no se cuentan. \n\nPuntaje FAAM ADL = [(suma de n respuestas)/4n] x 100, donde n es igual al número de respuestas completadas. Es posible que no se calcule un puntaje FAAM ADL si falta más de un elemento. \n\nPuntaje deportivo FAAM = [(suma de n respuestas)/4n] x 100, donde n es igual al número de respuestas completadas. No se puede calcular un puntaje FAAM Sports si falta más de un elemento.",
+  "score_interpretation": "El puntaje se representa en una escala de 0 a 100, donde 0 representa la función mínima y 100 representa la función máxima.",
+  "summaryScore": [
+    "Puntaje ADL",
+    "Puntaje de Deportes"
+  ]
+}

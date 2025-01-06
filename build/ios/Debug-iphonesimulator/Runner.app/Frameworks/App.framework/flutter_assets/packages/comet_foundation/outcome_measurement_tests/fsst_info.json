@@ -1,0 +1,23 @@
+{
+  "equipment": "A 'plus' sign arrangement of four canes or rods (approximately 100 cm in length and 2.5 cm in diameter).|*|{img:0}",
+  "images": [
+    "FSST_setup"
+  ],
+  "instructions": "The aim is to step as fast as possible into each square with both feet in the specified clockwise to counter-clockwise sequence. \n\nStepping Sequence with both feet touching each square: \n- Clockwise: Square 1, Square 2, Square 3, Square 4, Square 1. \n- Counter-clockwise: Back to Square 4, Square 3, Square 2, Square 1.\n(see setup and sequence illustrated in Equipment section) \n\nThe test may be demonstrated by the administrator, and the patient is allowed one practice trial to ensure understanding.\n\nTwo trials are then performed. The time for each trial is started when the first foot makes contact with Square 2 and is stopped when the last foot makes contact with Square 1. Repeat the trial if the patient is unsuccesful at completing the sequence, loses balance, or contacts a cane (or rod) during the trial. A score is still provided if the patient is unable to face forward during the entire sequence. \n\nInstructions given to patient: \"Try to complete the sequence as fast as possible without touching the sticks. Both feet must make contact with the floor in each square. If possible, face forward during the entire sequence.\"",
+  "mcid_mdc": "MCID = Minimally Clinically Important Difference, MDC = Minimal Detectable Change\n\nParkinson's Disease: MDC = 4.6s.\nDegenerative Spinal Conditions: MCID = 3.6s.\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Four Square Step Test (FSST) is a performance measure used to assess dynamic stability and coordination as the patient steps over objects forward, sideways, and backward.",
+  "population": "The intended population includes the following conditions: Healthy Adults, Older Adults, Geriatrics, Neurological Disorders, Stroke, Parkinson's Disease, Vestibular Disorders, Limb Loss.",
+  "references": "1. Dite W, Temple VA. A clinical test of stepping and change of direction to identify multiple falling older adults. Arch Phys Med Rehabil. 2002;83(11): 1566-1571.\n2. Moore M, Barker K. The validity and reliability of the Four Square Step Test in different adult populations: a systematic review. Syst Rev. 2017;6(1):187. \n3. Batting M, Hannink E, Barker K. Minimal clinically important difference of the Four Square Step Test in people with degenerative spinal conditions. Physiotherapy. 2022;115:58-60. \n4. Blennerhassett JM, Jayalath VM. The Four Square Step Test is a feasible and valid clinical test of dynamic standing balance for use in ambulant people poststroke. Arch Phys Med Rehabil. 2008;89(11):2156-2161. \n5. Cleary K, Skornyakov E. Predicting falls in older adults using the Four Square Step Test. Physiother Theory Pract. 2017;33(10):766-771. \n6. Dite W, Connor HJ, Curtis HC. Clinical identification of multiple fall risk early after unilateral transtibial amputation. Arch Phys Med Rehabil. 2007;88(1):109-114. \n7. Duncan RP, Earhart GM. Four Square Step Test performance in people with Parkinson Disease. J Neurol Phys Ther. 2013;37(1):2-8. \n8. Kalron A, Givon U. Construct validity of the Four Square Step Test in multiple sclerosis. Arch Phys Med Rehabil. 2016;97(9):1496-1501.\n9. Whitney SL, Marchetti GF. Morris LO. The reliability and validity of the Four Square Step Test for people with balance deficits secondary to a vestibular disorder. Arch Phys Med Rehabil. 2007;88(1):99-104.",
+  "requireCompleteness": false,
+  "score_calculation": "Two FSST trials are performed, and the best of the two times (in seconds) is taken as the score. \nDocument the type of assistive device and/or bracing used.",
+  "score_interpretation": "Cut-off scores indicating increased risk of falls. \n\nOlder adults/geriatrics: > 15s\nStroke: > 15s or failed attempt\nParkinson's Disease: > 9.68s\nVestibular Disorders: > 12s\nLimb Loss/Amputation: > 24s",
+  "summaryScore": [
+    "Best Timed Trial"
+  ],
+  "minYValue": "10",
+  "maxYValue": "24",
+  "yAxisInterval": "2",
+  "sigDiffPositive": "4.6",
+  "sigDiffNegative": "4.6",
+  "significantFigures": "2"
+}

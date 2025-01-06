@@ -1,0 +1,14 @@
+[
+  {
+    "group": 0,
+    "id": "tminwt_1",
+    "question": "Distance Traveled (m)",
+    "type": "text"
+  },
+  {
+    "group": 0,
+    "id": "tminwt_2",
+    "question": "Were any assistive devices used when completing this test?",
+    "type": "text"
+  }
+]

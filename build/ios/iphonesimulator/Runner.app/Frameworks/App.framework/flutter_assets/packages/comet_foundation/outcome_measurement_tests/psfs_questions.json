@@ -1,0 +1,32 @@
+[
+  {
+    "group": 0,
+    "id": "psfs_1",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "Activity 1",
+    "score_group": 0,
+    "type": "discrete_scale_text"
+  },
+  {
+    "group": 0,
+    "id": "psfs_2",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "Activity 2",
+    "score_group": 0,
+    "type": "discrete_scale_text"
+  },
+  {
+    "group": 0,
+    "id": "psfs_3",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "Activity 3",
+    "score_group": 0,
+    "type": "discrete_scale_text"
+  }
+]

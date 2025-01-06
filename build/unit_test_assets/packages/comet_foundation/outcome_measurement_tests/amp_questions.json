@@ -1,0 +1,311 @@
+[
+  {
+    "group": 0,
+    "id": "amp_1",
+    "option": [
+      "Cannot sit upright independently for 60s",
+      "Can sit upright independently for 60s"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "amp_2",
+    "option": [
+      "Does not attempt",
+      "Cannot grasp or requires arm support",
+      "Reaches forward and successfully grasps item"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "amp_3",
+    "option": [
+      "Cannot do or requires physical assistance",
+      "Performs independently, but appears unsteady",
+      "Performs independently, appears to be steady and safe"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 3,
+    "id": "amp_4",
+    "option": [
+      "Cannot do or requires physical assistance",
+      "Able, uses arms/assist device to help",
+      "Able, without using arms"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 4,
+    "id": "amp_5",
+    "option": [
+      "Unable without help (physical assistance)",
+      "Able requires >1 attempt",
+      "Able to rise 1 attempt"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 5,
+    "id": "amp_6",
+    "option": [
+      "Unsteady (staggers, moves foot, sways)",
+      "Steady using walking aid or other support",
+      "Steady without walker or other support"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 6,
+    "id": "amp_7",
+    "option": [
+      "Unsteady",
+      "Steady but uses walking aid or other support",
+      "Standing without support"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 7,
+    "id": "amp_8a",
+    "option": [
+      "Unsteady",
+      "Steady but uses walking aid or other support for 30s",
+      "Single-limb standing without support for 30s"
+    ],
+    "question": "a. Sound Side",
+    "tapQuestion": "No prosthesis (AMPnoPro)",
+    "score_group": 0,
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 7,
+    "id": "amp_8b",
+    "option": [
+      "Unsteady",
+      "Steady but uses walking aid or other support for 30s",
+      "Single-limb standing without support for 30s"
+    ],
+    "question": "b. Prosthetic Side",
+    "tapQuestion": "No prosthesis (AMPnoPro)",
+    "score_group": 0,
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 8,
+    "id": "amp_9",
+    "option": [
+      "Does not attempt",
+      "Cannot grasp or requires arm support on assistive device",
+      "Reaches forward and successfully grasps item no support"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 9,
+    "id": "amp_10",
+    "option": [
+      "Begins to fall",
+      "Staggers, grabs, catches self, or uses assistive device",
+      "Steady"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 10,
+    "id": "amp_11",
+    "option": [
+      "Unsteady or grips assistive device",
+      "Steady without any use of assistive device"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 11,
+    "id": "amp_12",
+    "option": [
+      "Unable to pick up object and return to standing",
+      "Performs with some help (table, chair, walking aid, etc.)",
+      "Performs independently (without help from object or person)"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 12,
+    "id": "amp_13",
+    "option": [
+      "Unsafe (misjudged distance, falls into chair)",
+      "Uses arms, assistive device, or not a smooth motion",
+      "Safe, smooth motion"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 13,
+    "id": "amp_14",
+    "option": [
+      "Any hesitancy or multiple attempts to start",
+      "No hesitancy"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 14,
+    "id": "amp_15a",
+    "option": [
+      "Does not advance a minimum of 12in (30cm)",
+      "Advances a minimum of 12in (30cm)"
+    ],
+    "question": "a. Swing foot - prosthesis side",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 14,
+    "id": "amp_15b",
+    "option": [
+      "Does not advance a minimum of 12in (30cm)",
+      "Advances a minimum of 12in (30cm)"
+    ],
+    "question": "b. Swing foot - sound side",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 14,
+    "id": "amp_15c",
+    "option": [
+      "Foot does not completely clear floor without deviation",
+      "Foot completely clears floor without marked deviation (extreme substitute movements to permit clearing the floor)"
+    ],
+    "question": "c. Foot clearance - prosthesis side",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 14,
+    "id": "amp_15d",
+    "option": [
+      "Foot does not completely clear floor without deviation",
+      "Foot completely clears floor without marked deviation (extreme substitute movements to permit clearing the floor)"
+    ],
+    "question": "d. Foot clearance - sound side",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 15,
+    "id": "amp_16",
+    "option": [
+      "Stopping or discontinuity between steps (stop & go gait)",
+      "Steps appear continuous"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 16,
+    "id": "amp_17",
+    "option": [
+      "Unable to turn, requires intervention to prevent falling",
+      "Greater than 3 steps but completes task without intervention",
+      "No more than 3 continuous steps with or without assistive aid"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 17,
+    "id": "amp_18",
+    "option": [
+      "Unable to vary cadence in a controlled manner",
+      "Asymmetrical increase in cadence in a controlled manner",
+      "Symmetrical increase in speed in a controlled matter"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 18,
+    "id": "amp_19",
+    "option": [
+      "Cannot step over the box",
+      "Catches foot, interrupts stride",
+      "Steps over without interrupting stride"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 19,
+    "id": "amp_20a",
+    "option": [
+      "Unsteady, cannot do",
+      "One step at a time, or must hold on to railing or device",
+      "Steps over step, does not hold onto the railing or device"
+    ],
+    "question": "a. Ascending",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 19,
+    "id": "amp_20b",
+    "option": [
+      "Unsteady, cannot do",
+      "One step at a time, or must hold on to railing or device",
+      "Steps over step, does not hold onto the railing or device"
+    ],
+    "question": "b. Descending",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 20,
+    "id": "amp_21",
+    "option": [
+      "Bed bound",
+      "Wheelchair",
+      "Walker",
+      "Crutches (axillary or forearm)",
+      "Cane (straight or quad)",
+      "None"
+    ],
+    "question": "",
+    "score_group": 0,
+    "type": "radial"
+  }
+]

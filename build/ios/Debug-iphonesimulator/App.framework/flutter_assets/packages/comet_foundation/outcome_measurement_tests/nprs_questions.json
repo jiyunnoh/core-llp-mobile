@@ -1,0 +1,32 @@
+[
+  {
+    "group": 0,
+    "id": "nprs_1",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "1. Current Pain (24 hours)",
+    "score_group": 0,
+    "type": "discrete_scale"
+  },
+  {
+    "group": 0,
+    "id": "nprs_2",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "2. Best Pain (24 hours)",
+    "score_group": 0,
+    "type": "discrete_scale"
+  },
+  {
+    "group": 0,
+    "id": "nprs_3",
+    "interval": 1,
+    "max": 10,
+    "min": 0,
+    "question": "3. Worst Pain (24 hours)",
+    "score_group": 0,
+    "type": "discrete_scale"
+  }
+]

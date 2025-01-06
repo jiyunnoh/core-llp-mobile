@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>LCOV - lcov.info - model/lib/model/chart_data.dart</title>
+  <link rel="stylesheet" type="text/css" href="../../../gcov.css">
+</head>
+
+<body>
+
+          <table width="100%" border=0 cellspacing=0 cellpadding=0>
+            <tr><td class="title">LCOV - code coverage report</td></tr>
+            <tr><td class="ruler"><img src="../../../glass.png" width=3 height=3 alt=""></td></tr>
+
+            <tr>
+              <td width="100%">
+                <table cellpadding=1 border=0 width="100%">
+          <tr>
+            <td width="10%" class="headerItem">Current view:</td>
+            <td width="10%" class="headerValue"><a href="../../../index.html">top level</a> - <a href="index.html">model/lib/model</a> - chart_data.dart<span style="font-size: 80%;"> (source / <a href="chart_data.dart.func-c.html">functions</a>)</span></td>
+            <td width="5%"></td>
+            <td width="5%"></td>
+            <td width="5%" class="headerCovTableHead">Coverage</td>
+            <td width="5%" class="headerCovTableHead" title="Covered + Uncovered code">Total</td>
+            <td width="5%" class="headerCovTableHead" title="Exercised code only">Hit</td>
+          </tr>
+          <tr>
+            <td class="headerItem">Test:</td>
+            <td class="headerValue">lcov.info</td>
+            <td></td>
+            <td class="headerItem">Lines:</td>
+            <td class="headerCovTableEntryLo">0.0&nbsp;%</td>
+            <td class="headerCovTableEntry">21</td>
+            <td class="headerCovTableEntry">0</td>
+          </tr>
+          <tr>
+            <td class="headerItem">Test Date:</td>
+            <td class="headerValue">2024-04-17 14:11:46</td>
+            <td></td>
+            <td class="headerItem">Functions:</td>
+            <td class="headerCovTableEntryHi">-</td>
+            <td class="headerCovTableEntry">0</td>
+            <td class="headerCovTableEntry">0</td>
+          </tr>
+                  <tr><td><img src="../../../glass.png" width=3 height=3 alt=""></td></tr>
+                </table>
+              </td>
+            </tr>
+
+            <tr><td class="ruler"><img src="../../../glass.png" width=3 height=3 alt=""></td></tr>
+          </table>
+
+          <table cellpadding=0 cellspacing=0 border=0>
+            <tr>
+              <td><br></td>
+            </tr>
+            <tr>
+              <td>
+<pre class="sourceHeading">            Line data    Source code</pre>
+<pre class="source">
+<span id="L1"><span class="lineNum">       1</span>              : import 'dart:ui';</span>
+<span id="L2"><span class="lineNum">       2</span>              : </span>
+<span id="L3"><span class="lineNum">       3</span>              : import 'package:biot/constants/enum.dart';</span>
+<span id="L4"><span class="lineNum">       4</span>              : import 'package:biot/model/encounter.dart';</span>
+<span id="L5"><span class="lineNum">       5</span>              : import 'package:syncfusion_flutter_sliders/sliders.dart';</span>
+<span id="L6"><span class="lineNum">       6</span>              : </span>
+<span id="L7"><span class="lineNum">       7</span>              : import '../ui/common/constants.dart';</span>
+<span id="L8"><span class="lineNum">       8</span>              : import 'domain.dart';</span>
+<span id="L9"><span class="lineNum">       9</span>              : </span>
+<span id="L10"><span class="lineNum">      10</span>              : class CircularChartData {</span>
+<span id="L11"><span class="lineNum">      11</span>              :   final String domainName;</span>
+<span id="L12"><span class="lineNum">      12</span>              :   num radius;</span>
+<span id="L13"><span class="lineNum">      13</span>              :   num unweightedY;</span>
+<span id="L14"><span class="lineNum">      14</span>              :   num weightedY;</span>
+<span id="L15"><span class="lineNum">      15</span>              :   Color color;</span>
+<span id="L16"><span class="lineNum">      16</span>              :   int numOfOutcomeMeasures;</span>
+<span id="L17"><span class="lineNum">      17</span>              : </span>
+<span id="L18"><span class="lineNum">      18</span> <span class="tlaUNC tlaBgUNC">           0 :   double get weightedAngle =&gt; (weightedY / 100 * 360);</span></span>
+<span id="L19"><span class="lineNum">      19</span>              : </span>
+<span id="L20"><span class="lineNum">      20</span> <span class="tlaUNC">           0 :   CircularChartData(</span></span>
+<span id="L21"><span class="lineNum">      21</span>              :     this.domainName,</span>
+<span id="L22"><span class="lineNum">      22</span>              :     this.color, {</span>
+<span id="L23"><span class="lineNum">      23</span>              :     required this.radius,</span>
+<span id="L24"><span class="lineNum">      24</span>              :     required this.unweightedY,</span>
+<span id="L25"><span class="lineNum">      25</span>              :     required this.weightedY,</span>
+<span id="L26"><span class="lineNum">      26</span>              :     this.numOfOutcomeMeasures = 1,</span>
+<span id="L27"><span class="lineNum">      27</span>              :   });</span>
+<span id="L28"><span class="lineNum">      28</span>              : </span>
+<span id="L29"><span class="lineNum">      29</span> <span class="tlaUNC">           0 :   factory CircularChartData.fromDomain(Domain domain, Encounter encounter) {</span></span>
+<span id="L30"><span class="lineNum">      30</span> <span class="tlaUNC">           0 :     double r = (doughnutRadius - innerDoughnutRadius) *</span></span>
+<span id="L31"><span class="lineNum">      31</span> <span class="tlaUNC">           0 :             encounter.domainsMap[domain.type]!.score! /</span></span>
+<span id="L32"><span class="lineNum">      32</span> <span class="tlaUNC">           0 :             doughnutRadius +</span></span>
+<span id="L33"><span class="lineNum">      33</span>              :         innerDoughnutRadius;</span>
+<span id="L34"><span class="lineNum">      34</span> <span class="tlaUNC">           0 :     return CircularChartData(domain.type.toDisplayName, domain.type.color,</span></span>
+<span id="L35"><span class="lineNum">      35</span>              :         radius: r,</span>
+<span id="L36"><span class="lineNum">      36</span> <span class="tlaUNC">           0 :         unweightedY: 100 / encounter.domains.length,</span></span>
+<span id="L37"><span class="lineNum">      37</span>              :         weightedY:</span>
+<span id="L38"><span class="lineNum">      38</span> <span class="tlaUNC">           0 :             encounter.domainWeightDist!.getDomainWeightValue(domain.type),</span></span>
+<span id="L39"><span class="lineNum">      39</span> <span class="tlaUNC">           0 :         numOfOutcomeMeasures: domain.outcomeMeasures.length);</span></span>
+<span id="L40"><span class="lineNum">      40</span>              :   }</span>
+<span id="L41"><span class="lineNum">      41</span>              : </span>
+<span id="L42"><span class="lineNum">      42</span> <span class="tlaUNC">           0 :   CircularChartData clone() {</span></span>
+<span id="L43"><span class="lineNum">      43</span> <span class="tlaUNC">           0 :     return CircularChartData(domainName, color,</span></span>
+<span id="L44"><span class="lineNum">      44</span> <span class="tlaUNC">           0 :         radius: radius,</span></span>
+<span id="L45"><span class="lineNum">      45</span> <span class="tlaUNC">           0 :         unweightedY: unweightedY,</span></span>
+<span id="L46"><span class="lineNum">      46</span> <span class="tlaUNC">           0 :         weightedY: weightedY,</span></span>
+<span id="L47"><span class="lineNum">      47</span> <span class="tlaUNC">           0 :         numOfOutcomeMeasures: numOfOutcomeMeasures);</span></span>
+<span id="L48"><span class="lineNum">      48</span>              :   }</span>
+<span id="L49"><span class="lineNum">      49</span>              : </span>
+<span id="L50"><span class="lineNum">      50</span> <span class="tlaUNC">           0 :   @override</span></span>
+<span id="L51"><span class="lineNum">      51</span>              :   String toString() {</span>
+<span id="L52"><span class="lineNum">      52</span> <span class="tlaUNC">           0 :     return 'radius: $radius';</span></span>
+<span id="L53"><span class="lineNum">      53</span>              :   }</span>
+<span id="L54"><span class="lineNum">      54</span>              : }</span>
+<span id="L55"><span class="lineNum">      55</span>              : </span>
+<span id="L56"><span class="lineNum">      56</span>              : class TimeSeriesChartData {</span>
+<span id="L57"><span class="lineNum">      57</span>              :   final DateTime date;</span>
+<span id="L58"><span class="lineNum">      58</span>              :   final List&lt;ChartData&gt; dataList;</span>
+<span id="L59"><span class="lineNum">      59</span>              :   final Color? color;</span>
+<span id="L60"><span class="lineNum">      60</span>              : </span>
+<span id="L61"><span class="lineNum">      61</span> <span class="tlaUNC">           0 :   TimeSeriesChartData({required this.date, required this.dataList, this.color});</span></span>
+<span id="L62"><span class="lineNum">      62</span>              : }</span>
+<span id="L63"><span class="lineNum">      63</span>              : </span>
+<span id="L64"><span class="lineNum">      64</span>              : class ChartData {</span>
+<span id="L65"><span class="lineNum">      65</span>              :   final String? label;</span>
+<span id="L66"><span class="lineNum">      66</span>              :   final double? value;</span>
+<span id="L67"><span class="lineNum">      67</span>              : </span>
+<span id="L68"><span class="lineNum">      68</span> <span class="tlaUNC">           0 :   ChartData({this.label, this.value});</span></span>
+<span id="L69"><span class="lineNum">      69</span>              : }</span>
+<span id="L70"><span class="lineNum">      70</span>              : </span>
+<span id="L71"><span class="lineNum">      71</span>              : class SliderChartData {</span>
+<span id="L72"><span class="lineNum">      72</span>              :   final String domainName;</span>
+<span id="L73"><span class="lineNum">      73</span>              :   double simpleSliderValue;</span>
+<span id="L74"><span class="lineNum">      74</span>              :   SfRangeValues advancedSliderValues;</span>
+<span id="L75"><span class="lineNum">      75</span>              :   late double advancedSliderRange;</span>
+<span id="L76"><span class="lineNum">      76</span>              :   double normalizedValue;</span>
+<span id="L77"><span class="lineNum">      77</span>              :   Color color;</span>
+<span id="L78"><span class="lineNum">      78</span>              : </span>
+<span id="L79"><span class="lineNum">      79</span> <span class="tlaUNC">           0 :   SliderChartData(this.domainName, this.simpleSliderValue,</span></span>
+<span id="L80"><span class="lineNum">      80</span>              :       this.advancedSliderValues, this.normalizedValue, this.color);</span>
+<span id="L81"><span class="lineNum">      81</span>              : }</span>
+        </pre>
+              </td>
+            </tr>
+          </table>
+          <br>
+
+          <table width="100%" border=0 cellspacing=0 cellpadding=0>
+            <tr><td class="ruler"><img src="../../../glass.png" width=3 height=3 alt=""></td></tr>
+            <tr><td class="versionInfo">Generated by: <a href="https://github.com//linux-test-project/lcov" target="_parent">LCOV version 2.0-1</a></td></tr>
+          </table>
+          <br>
+
+</body>
+</html>

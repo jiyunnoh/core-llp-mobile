@@ -1,0 +1,11 @@
+framework module pdf_merger {
+  umbrella header "pdf_merger-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module pdf_merger.Swift {
+  header "pdf_merger-Swift.h"
+  requires objc
+}

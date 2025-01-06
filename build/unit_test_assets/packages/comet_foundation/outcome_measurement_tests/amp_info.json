@@ -1,0 +1,48 @@
+{
+  "equipment": "Stopwatch, 2 chairs with arms, 12 inch (30cm) ruler, pencil, 4 inch (10cm) high obstacle, a set of stairs with 3 steps, 15 ft (4.5m) walkway",
+  "groupHeaders": [
+    "1. Sitting balance: sit forward in a chair with arms folded across chest for 60s.",
+    "2. Sitting reach: reach forward and grasp ruler. (Tester holds ruler 12in (30cm) beyond extended arms midline to the sternum.)",
+    "3. Chair to chair transfer: 2 chairs at 90°. Patient may choose direction and use their upper extremities.",
+    "4. Arises from chair: ask patient to fold arms across chest and stand. If unable, use arms or assistive device.",
+    "5. Attempts to arise from a chair (stopwatch ready): if attempt in #4 was without arms then ignore and allow another attempt without penalty.",
+    "6. Immediate standing balance (first 5s): begin timing immediately.",
+    "7. Standing balance (30s) (stopwatch ready). First attempt is without assistive device. If support is required, allow after first attempt.",
+    "8. Single-limb standing balance (stopwatch ready): time the duration of single limb standing on both the sound and prosthetic limb up to 30s. Grade the quality, not the time. First attempt is without assistive device. If support is required, allow after first attempt.",
+    "9. Standing reach: reach forward and grasp the ruler. (Tester holds ruler 12in (30cm) beyond extended arm(s) midline to the sternum.)",
+    "10. Nudge test (subject at maximum position #7): with feet as close together as possible, examiner pushes firmly on subject's sternum with palm of hand 3 times (toes should rise).",
+    "11. Eyes closed (at maximum position #7): if support is required grade as unsteady.",
+    "12. Picking up objects off the floor (pick up a pencil off the floor placed midline 12in (30cm) in front of foot).",
+    "13. Sitting down: ask patient to fold arms across chest and sit. If unable, use arm or assistive device.",
+    "14. Initiation of gait (immediately after told to \"go\").",
+    "15. Step length and height: walk a measured distance of 12ft (3.66m) twice (up and back).",
+    "16. Step continuity during the ambulation in item 15.",
+    "17. Turning: 180° when returning to chair during the ambulation in item 15.",
+    "18. Variable cadence: walk a distance of 12ft (3.66m) as safely as possible 4 times. (Speeds may vary from slow to fast and fast to slow, varying cadence.)",
+    "19. Stepping over obstacle: place a movable box of 4in (10cm) in height in the walking path.",
+    "20. Stairs (must have at least 2 steps): try to go up and down these stairs without holding on to the railing. Don't hesitate to permit patient to hold on to rail. Safety first, if examiner feels that any risk is involved, omit and score as 0.",
+    "21. Assistive device selection: add points for the use of an assistive device if used for 2 or more items. If testing without prosthesis, use of appropriate assistive device is mandatory."
+  ],
+  "instructions": "Testee is seated in a hard chair with arms. The maneuvers are tested with or without the use of the prosthesis. Advise the person of each task or group of tasks prior to performance. Please avoid unnecessary chatter throughout the test. Safety first, no task should be performed if either the tester or testee is uncertain of a safe outcome.",
+  "mcid_mdc": "Unilateral Lower Limb Amputation with prosthesis: MDC = 3.4.\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Amputee Mobility Predictor (AMP) is a performance outcome measure that measures the mobility of people with lower limb loss by assessing sitting and standing ability, balance, and gait attributes. It contains two sub-categories: AMP with use of a prosthesis (AMPPRO) and without use of a prosthesis (AMPnoPRO).",
+  "population": "The intended population includes the following condition: Lower Limb Loss.",
+  "references": "1. Gailey RS, Roach KE, Applegate EB, et al. The amputee mobility predictor: an instrument to assess determinants of the lower-limb amputee's ability to ambulate. Arch Phys Med Rehabil. 2002;83(5):613-627. doi:10.1053/apmr.2002.32309\n2. Resnik L, Borgia M. Reliability of outcome measures for people with lower-limb amputations: distinguishing true change from statistical error. Phys Ther. 2011;91:555–565.",
+  "requireCompleteness": false,
+  "score_calculation": "Sum the scores for each item.",
+  "score_interpretation": "The score is represented on a 0-47 scale for AMPPRO and a 0-43 scale for AMPnoPro where a higher score corresponds to a more positive outcome. \n\nNormative data for lower limb amputees has been established according to K Levels: |*|{img:0}",
+  "images": [
+    "AMP_interp"
+  ],
+  "summaryScore": [
+    "Total Score"
+  ],
+  "minYValue": "0",
+  "maxYValue": "47",
+  "yAxisInterval": "5",
+  "yAxisLabel": "Score",
+  "yAxisUnit": "0",
+  "shouldReverse": "false",
+  "sigDiffPositive": "0",
+  "sigDiffNegative": "0"
+}

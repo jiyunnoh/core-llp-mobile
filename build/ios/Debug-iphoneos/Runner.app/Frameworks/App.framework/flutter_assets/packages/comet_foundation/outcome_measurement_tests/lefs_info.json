@@ -1,0 +1,29 @@
+{
+  "dictionary": [
+    "difficulty",
+    "perform",
+    "recreational",
+    "squatting",
+    "uneven"
+  ],
+  "equipment": "None",
+  "groupHeaders": [
+    "Today, do you or would you have any difficulty at all with:"
+  ],
+  "instructions": "This questionnaire asks the patient whether they are having any difficulty at all with the activities listed because of the lower limb problem for which they are currently seeking attention. Please ask your patient to answer every question.",
+  "mcid_mdc": "MCID = Minimally Clinically Important Difference, MDC = Minimal Detectable Change\n\nACL Reconstruction: MDC =  9 points; MCID = 9 points.\nVarious Lower Extremity Injuries: MDC = 9 points; MCID = 9 points.\nHip Impairment: MDC = 7 points or 11.3%; MCID = 6 points or 11.3%.\nTotal Knee/Hip Arthroplasty: MDC = 9 points; MCID = 9 points.\nLower Extremity Osteoarthritis: MDC = 9 points.\nHip Osteoarthritis: MDC = 9.9 points.\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Lower Extremity Functional Scale (LEFS) is a self-report measure that is used to evaluate the impairment of a patient with lower extremity musculoskeletal conditions or disorders. This tool can be used clinically to measure the initial function, ongoing progress, and outcome in the following areas: activities of daily living, balance, coordination, functional mobility, life participation, occupational performance, quality of life, range of motion, and strength.",
+  "population": "The intended population includes the following conditions:  Musculoskeletal Conditions of the Lower Extremities, Stroke, and Chronic Pain.",
+  "references": "1. Binkley JM, Stratford PW, Lott SA, et al. The Lower Extremity Functional Scale (LEFS): scale development, measurement properties, and clinical application. North American Orthopaedic Rehabilitation Research Network. Phys Ther. 1999;79(4):371-383.\n2. Alcock GK, Werstine MS, Robbins SM, et al. Longitudinal changes in the lower extremity functional scale after anterior cruciate ligament reconstructive surgery. Clin J Sport Med. 2012;22(3):234-239. doi:10.1097/JSM.0b013e31824cb53d\n3. Wang YC, Hart DL, Stratford PW, et al. Clinical interpretation of a lower-extremity functional scale-derived computerized adaptive test. Phys Ther. 2009;89(9):957-968. doi:10.2522/ptj.20080359\n4. Stratford PW, Binkley JM, Watson J, et al. Feature Articles-Validation of the LEFS on patients with total joint arthroplasty. Physiotherapy Canada. 2000;52(2):97-105.\n5. Kennedy DM, Stratford PW, Riddle DL, et al. Assessing recovery and establishing prognosis following total knee arthroplasty. Phys Ther. 2008;88(1):22-32. doi:10.2522/ptj.20070051\n6. Pua YH, Cowan SM, Wrigley TV, et al. The Lower Extremity Functional Scale could be an alternative to the Western Ontario and McMaster Universities Osteoarthritis Index physical function scale. J Clin Epidemiol. 2009;62(10):1103-1111. doi:10.1016/j.jclinepi.2008.11.011",
+  "requireCompleteness": true,
+  "score_calculation": "Answers for the LEFS are based on a Likert scale (4-0) as follows: 0 = extreme difficulty or unable to do, 1 = quite a bit of difficulty, 2 = moderate difficulty, 3 = a little bit of difficulty, 4 = no difficulty.\nLEFS Score = sum of 20 responses. All items must be answered for an LEFS score to be calculated.",
+  "score_interpretation": "Scoring scale 0-80 points where 0 represents the greatest disability and 80 represents the least disability. ",
+  "summaryScore": [
+    "Total Score"
+  ],
+  "minYValue": "0",
+  "maxYValue": "80",
+  "yAxisInterval": "2",
+  "sigDiffPositive": "9",
+  "sigDiffNegative": "9"
+}

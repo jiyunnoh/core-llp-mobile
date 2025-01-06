@@ -1,0 +1,24 @@
+{
+  "dictionary": [
+    "adjustments",
+    "artificialLimb",
+    "rate",
+    "scale",
+    "socket"
+  ],
+  "equipment": "Ninguno(a)",
+  "groupHeaders": [
+    "En una escala del 0 al 10, si 0 representa el ajuste de encaje más incómodo que pueda imaginar y 10 representa el ajuste de encaje más cómodo:"
+  ],
+  "instructions": "Pídale al paciente que califique la comodidad de su encaje en una escala de 0 a 10, donde 0 representa lo más incómodo y 10 representa el encaje más cómodo imaginable.",
+  "mcid_mdc": "Ninguno(a)",
+  "overview": "Puntuación de Comodidad del Encaje (SCS) es una herramienta de autoinforme que utiliza una escala de calificación numérica de 11 puntos validada específicamente para evaluar el ajuste y la comodidad del encaje protésico.",
+  "population": "La población prevista incluye la siguiente afección: Usuarios de prótesis.",
+  "references": "1. Hanspal RS, Fisher K, Nieveen R. Prosthetic socket fit comfort score. Disabil Rehabil. 2003 Nov 18;25(22):1278-80. doi: 10.1080/09638280310001603983. PMID: 14617445.",
+  "requireCompleteness": true,
+  "score_calculation": "El puntaje se informa como la respuesta de número completo.",
+  "score_interpretation": "Ninguno(a)",
+  "summaryScore": [
+    "Exportar informe para resultados"
+  ]
+}

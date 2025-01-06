@@ -1,0 +1,548 @@
+[
+  {
+    "group": 0,
+    "id": "dash_1",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "1. Abrir un frasco apretado ó nuevo.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_2",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "2. Escribir.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_3",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "3. Girar una llave (para un candado).",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_4",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "4. Preparar una comida.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_5",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "5. Empujar y abrir una puerta pesada.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_6",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "6. Poner un objeto en un estante más alto que usted.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_7",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "7. Realizar quehaceres del hogar pesados (p. ej., lavar paredes, lavar pisos).",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_8",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "8. Podar ó hacer trabajos de jardinería.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_9",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "9. Tender su cama.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_10",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "10. Cargar una bolsa de mandado ó un maletín.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_11",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "11. Cargar un objeto pesado (de más de 10 libras).",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_12",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "12. Cambiar un foco que está más alto que usted.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_13",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "13. Lavar o secar su cabello.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_14",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "14. Lavar su espalda.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_15",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "15. Ponerse una sudadera.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_16",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "16. Utilizar un cuchillo para cortar comida.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_17",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "17. Actividades recreativas que requieren poco esfuerzo (p. ej., jugar baraja, tejer, etc.).",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_18",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "18. Actividades recreativas en las que se absorbe algún tipo de fuerza o impacto a través de su brazo, hombro o mano (p. ej., jugar golf, martilleo, jugar tenis, etc.).",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_19",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "19. Actividades recreativas en las cuales mueve su brazo libremente (p. ej., jugando platillo volador, raqueta con gallito, etc.).",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_20",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "20. Organizar las necesidades de transporte (ir de un lugar a otro).",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_21",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "21. Actividades sexuales.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_22",
+    "option": [
+      "Nada",
+      "Ligeramente",
+      "Moderadamente",
+      "Bastante",
+      "Extremadamente (muchísimo)"
+    ],
+    "question": "22. Durante la semana pasada, ¿hasta que grado el problema de su brazo, hombro o mano interfirió con sus actividades sociales normales con su familia, amigos ó vecinos?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "dash_23",
+    "option": [
+      "Sin limitaciones",
+      "Ligeramenta limitado",
+      "Moderadamente limitado (mas o menos limitado)",
+      "Muy limitado",
+      "Incapaz"
+    ],
+    "question": "23. Durante la semana pasada ¿estuvo limitado en su trabajo ú otras actividades diarias como resultado de su problema en su brazo, hombro, o mano.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "dash_24",
+    "option": [
+      "Nada",
+      "Leve",
+      "Moderado",
+      "Severo",
+      "Extremo"
+    ],
+    "question": "24. Dolor de brazo, hombro o mano.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "dash_25",
+    "option": [
+      "Nada",
+      "Leve",
+      "Moderado",
+      "Severo",
+      "Extremo"
+    ],
+    "question": "25. Dolor de brazo, hombro o mano cuando realiza alguna actividad específica.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "dash_26",
+    "option": [
+      "Nada",
+      "Leve",
+      "Moderado",
+      "Severo",
+      "Extremo"
+    ],
+    "question": "26. Hormigueo (alfileres y agujas) en su brazo, hombro o mano.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "dash_27",
+    "option": [
+      "Nada",
+      "Leve",
+      "Moderado",
+      "Severo",
+      "Extremo"
+    ],
+    "question": "27. Debilidad en su brazo, hombro o mano.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "dash_28",
+    "option": [
+      "Nada",
+      "Leve",
+      "Moderado",
+      "Severo",
+      "Extremo"
+    ],
+    "question": "28. Rigidez en su brazo, hombro o mano.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "dash_29",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Tan difícil que no puedo dormir"
+    ],
+    "question": "29. Durante la semana pasada, ¿cuánta dificultad ha tenido para dormir a causa del dolor en su brazo, hombro o mano?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 1,
+    "id": "dash_30",
+    "option": [
+      "Totalmente en desacuerdo",
+      "En desacuerdo",
+      "Ni de acuerdo ni en desacuerdo",
+      "De acuerdo",
+      "Totalmente de acuerdo"
+    ],
+    "question": "30. Me siento menos capaz, menos seguro o menos útil debido a mi problema de brazo, hombro omano.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "dash_31",
+    "question": "Por favor indique cuál es su trabajo:",
+    "tapQuestion": "No trabajo. \n(Puede omitir esta sección.)",
+    "type": "text_checkbox"
+  },
+  {
+    "group": 2,
+    "id": "dash_32",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "1. En la semana pasada, ¿tuvo alguna dificultad para usar su técnica normal para trabajo?",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "dash_33",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "2. En la semana pasada, ¿tuvo alguna dificultad para hacer su trabajo normal debido a dolor de brazo, hombro o mano?",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "dash_34",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "3. En la semana pasada, ¿tuvo alguna dificultad para hacer su trabajo tan bien como le gustaría?",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 2,
+    "id": "dash_35",
+    "option": [
+      "Sin dificultad",
+      "Poco difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "4. En la semana pasada, ¿tuvo alguna dificultad para dedicarle el tiempo normal para hacer su trabajo?",
+    "score_group": 1,
+    "type": "radial"
+  },
+  {
+    "group": 3,
+    "id": "dash_36",
+    "question": "Por favor indique el deporte o instrumento que es mas importante para usted:",
+    "tapQuestion": "No practico deporte, ni toco algún instrumento.\n(Omitir esta parte)",
+    "type": "text_checkbox"
+  },
+  {
+    "group": 3,
+    "id": "dash_37",
+    "option": [
+      "Sin dificultad",
+      "Medio difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "1. En la semana pasada, ¿tuvo alguna dificultad para utilizar su técnica normal para tocar su instrumento o practicar su deporte?",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 3,
+    "id": "dash_38",
+    "option": [
+      "Sin dificultad",
+      "Medio difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "2. En la semana pasada, ¿tuvo alguna dificultad para tocar su instrumento musical usual ó practicar su deporte debido al dolor de brazo, hombro o mano?",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 3,
+    "id": "dash_39",
+    "option": [
+      "Sin dificultad",
+      "Medio difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "3. En la semana pasada, ¿tuvo alguna dificultad para tocar su instrumento musical ó practicar su deporte tan bien como le gustaría?",
+    "score_group": 2,
+    "type": "radial"
+  },
+  {
+    "group": 3,
+    "id": "dash_40",
+    "option": [
+      "Sin dificultad",
+      "Medio difícil",
+      "Moderadamente difícil",
+      "Muy difícil",
+      "Incapaz"
+    ],
+    "question": "4. En la semana pasada, ¿tuvo alguna dificultad para dedicarle el tiempo normal para tocar su instrumento o practicar deporte?",
+    "score_group": 2,
+    "type": "radial"
+  }
+]

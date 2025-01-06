@@ -1,0 +1,27 @@
+{
+  "dictionary": [
+    "imaginable",
+    "intensity",
+    "scale"
+  ],
+  "equipment": "None",
+  "groupHeaders": [
+    "Please indicate the intensity of current, best, and worst pain levels over the past 24 hours on a scale of 0 (no pain) to 10 (worst pain imaginable)"
+  ],
+  "instructions": "The patient is asked to make three pain ratings, corresponding to current, best, and worst pain experienced over the past 24 hours. The average of the 3 ratings is used to represent the patient’s level of pain over the previous 24 hours. Please ask your patient to respond to all three pain ratings. ",
+  "mcid_mdc": "MCID = Minimally Clinically Important Difference, MDC = Minimal Detectable Change\n\nChronic Musculoskeletal Pain: MCID = 1 point or 15% change.\nShoulder Pain: MCID = 2.2 points.\nChronic Pain (including fibromyalgia, diabetic neuropathy, post-herpetic neuralgia, chronic low back pain, and osteoarthritis): MCID = 1.7 points or 27.9% change.\nChronic Spinal Cord Injury: MCID = 1.8 points or 36% change.\nPost-Operative: MCID = 35% reduction on the NPRS (minimal relief), 67% reduction on the NPRS (moderate relief), 70% reduction on the NPRS (much relief), 94% reduction on the NPRS (complete relief).\nHospital/ ER: MCID = 1.3 points.\nBrain Injury with Lower Back Pain: MCID = 1.5 points after 1 week of physical therapy; MCID = 2.2 points after 4 weeks of physical therapy; MDC (95% CI) = 2 points.\n\nThese are published values for specific populations and provide guidance if the patient does not have the listed condition.",
+  "overview": "The Numeric Pain Rating Scale (NPRS) measures the subjective intensity of pain.",
+  "population": "The intended population includes the following conditions: Pain Management and Chronic Pain.",
+  "references": "1. McCaffery M, Beebe A. Pain: Clinical manual for nursing practice. Mosby Inc.; 1989.\n2. Salaffi F, Stancati A, Silvestri CA, et al. Minimal clinically important changes in chronic musculoskeletal pain intensity measured on a numerical rating scale. Eur J Pain. 2004;8(4):283-291. doi:10.1016/j.ejpain.2003.09.004\n3. Michener LA, Snyder AR, Leggin BG. Responsiveness of the numeric pain rating scale in patients with shoulder pain and the effect of surgical status. J Sport Rehabil. 2011;20(1):115-128. doi:10.1123/jsr.20.1.115\n4. Jensen MP, McFarland CA. Increasing the reliability and validity of pain intensity measurement in chronic pain patients. Pain. 1993;55(2):195-203. doi:10.1016/0304-3959(93)90148-I\n5. Hanley MA, Jensen MP, Ehde DM, et al. Clinically significant change in pain intensity ratings in persons with spinal cord injury or amputation. Clin J Pain. 2006;22(1):25-31. doi:10.1097/01.ajp.0000148628.69627.82\n6. Sloman R, Wruble AW, Rosen G, et al. Determination of clinically meaningful levels of pain reduction in patients experiencing acute postoperative pain. Pain Manag Nurs. 2006;7(4):153-158. doi:10.1016/j.pmn.2006.09.001\n7. Bijur PE, Latimer CT, Gallagher EJ. Validation of a verbally administered numerical rating scale of acute pain for use in the emergency department. Acad Emerg Med. 2003;10(4):390-392. doi:10.1111/j.1553-2712.2003.tb01355.x\n8. Childs JD, Piva SR, Fritz JM. Responsiveness of the numeric pain rating scale in patients with low back pain. Spine (Phila Pa 1976). 2005;30(11):1331-1334. doi:10.1097/01.brs.0000164099.92112.29",
+  "requireCompleteness": true,
+  "score_calculation": "Average Score = (Current Pain Level + Worst Pain Level + Best Pain Level) /3",
+  "score_interpretation": "Cut-off score for overall pain: Mild = 1-3, Moderate = 4-7, and Severe = 8-10.\nFor worst pain: Mild = 1-3, Moderate = 4-6, and Severe = 7-10.",
+  "summaryScore": [
+    "Average Score"
+  ],
+  "minYValue": "0",
+  "maxYValue": "10",
+  "yAxisInterval": "2",
+  "sigDiffPositive": "2.2",
+  "sigDiffNegative": "2.2"
+}

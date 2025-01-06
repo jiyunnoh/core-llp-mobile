@@ -1,0 +1,239 @@
+[
+  {
+    "group": 0,
+    "id": "psq_1",
+    "option": [
+      "Very easy",
+      "Difficult"
+    ],
+    "question": "1. How easy was it to schedule an appointment?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_2",
+    "option": [
+      "Friendly/Helpful",
+      "Pleasant",
+      "Rude",
+      "Not acknowledged"
+    ],
+    "question": "2. Upon arrival, how would you rate your experience with our administrative staff?",
+    "score_group": 0,
+    "tapQuestion": "No receptionist",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_3",
+    "option": [
+      "Very comfortable",
+      "Adequate",
+      "Very uncomfortable"
+    ],
+    "question": "3. How comfortable was our waiting area?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_4",
+    "option": [
+      "Before your appointment",
+      "On time",
+      "Just after",
+      "Long after"
+    ],
+    "question": "4. For your scheduled appointment, were you seen:",
+    "score_group": 0,
+    "tapQuestion": "I was late",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_5",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "5. Were your financial obligations explained to you?",
+    "tapQuestion": "Not Applicable",
+    "score_group": 0,
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_6",
+    "option": [
+      "Excellent",
+      "Good",
+      "Satisfactory",
+      "Poor"
+    ],
+    "question": "6. Please rate the level of knowledge, care and attention you received from your provider.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_7",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "7. Did you discuss your goals and objectives related to your care with your provider?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_8",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "8. Did you receive your device(s) when your provider indicated you would?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_9",
+    "option": [
+      "Satisfied",
+      "Mostly satisfied",
+      "Neutral",
+      "Mostly dissatisfied",
+      "Dissatisfied"
+    ],
+    "score_group": 0,
+    "question": "9. How satisfied are you with your device(s)?",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_10",
+    "option": [
+      "Very useful",
+      "Somewhat useful",
+      "Not useful"
+    ],
+    "question": "10. Were the instructions regarding the use and care of your device(s) useful?",
+    "score_group": 0,
+    "tapQuestion": "I didn't get instructions",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_11",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "11. Were you instructed in the purpose and function of the device(s)?",
+    "score_group": 0,
+    "tapQuestion": "I don't remember",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_12",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "12. Were you instructed in the proper maintenance and/or cleaning of the device(s)?",
+    "score_group": 0,
+    "tapQuestion": "I don't remember",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_13",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "13. Were you instructed about the potential risks, benefits and precautions associated with the device(s)?",
+    "score_group": 0,
+    "tapQuestion": "I don't remember",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_14",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "14. Were you instructed on how to inspect your skin for signs of problems?",
+    "score_group": 0,
+    "tapQuestion": "I don't remember",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_15",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "15. Were you instructed on when and to whom you should report changes in your physical condition or general health?",
+    "score_group": 0,
+    "tapQuestion": "I don't remember",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_16",
+    "option": [
+      "Excellent",
+      "Very Good",
+      "Good",
+      "Fair",
+      "Poor"
+    ],
+    "question": "16. Please rate the training you (or your caregiver) received about the device(s):",
+    "score_group": 0,
+    "tapQuestion": "I received no training",
+    "type": "radial_checkbox"
+  },
+  {
+    "group": 0,
+    "id": "psq_17",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "question": "17. Were you instructed on whom to contact if a problem develops?",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_18",
+    "option": [
+      "Satisfied",
+      "Mostly satisfied",
+      "Neutral",
+      "Mostly dissatisfied",
+      "Dissatisfied"
+    ],
+    "question": "18. Please rate your overall satisfaction with the care you received at our practice.",
+    "score_group": 0,
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "psq_19",
+    "option": [
+      "Yes",
+      "Not sure",
+      "No"
+    ],
+    "question": "19. Would you recommend our practice to your friends or family if they had a need for our services?",
+    "score_group": 0,
+    "type": "radial"
+  }
+]

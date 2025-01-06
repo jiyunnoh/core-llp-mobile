@@ -1,0 +1,30 @@
+[
+  {
+    "group": 0,
+    "id": "fh_1",
+    "option": [
+      "4 weeks ago (or less)",
+      "More than 4 weeks ago"
+    ],
+    "question": "When was your last visit?",
+    "type": "radial"
+  },
+  {
+    "group": 0,
+    "id": "fh_2",
+    "interval": 1,
+    "max": 50,
+    "min": 0,
+    "question": "In the last _____, how many falls have you experienced?",
+    "type": "discrete_scale"
+  },
+  {
+    "group": 0,
+    "id": "fh_3",
+    "interval": 1,
+    "max": 50,
+    "min": 0,
+    "question": "In the last 12 months, how many falls have you experienced that resulted in injuries and required medical attention?",
+    "type": "discrete_scale"
+  }
+]

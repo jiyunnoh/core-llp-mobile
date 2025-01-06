@@ -1,0 +1,29 @@
+{
+  "dictionary": [
+    "adjustments",
+    "function",
+    "mobility",
+    "orthotic",
+    "rate",
+    "scale"
+  ],
+  "equipment": "None",
+  "groupHeaders": [
+    "On a scale of 1 - 10, if 1 represents the least mobile and functional, and 10 represents the most mobile and functional:"
+  ],
+  "instructions": "Ask the patient to rate his/her mobility when using the orthotic intervention on a 1 to 10 scale where 1 represents the least mobile and 10 represents the most mobile.",
+  "mcid_mdc": "None",
+  "overview": "The Orthotic Mobility Score is a self-reporting tool that uses a 10-point numerical rating scale for assessment of orthotic function and mobility.",
+  "population": "The intended population includes the following condition: Orthosis Users.",
+  "references": "This is a custom survey.",
+  "requireCompleteness": true,
+  "score_calculation": "The score is reported as the whole number response.",
+  "score_interpretation": "None",
+  "summaryScore": [
+    "Export Report for Results"
+  ],
+  "minYValue": "1",
+  "maxYValue": "10",
+  "yAxisInterval": "10",
+  "significantFigures": "1"
+}
